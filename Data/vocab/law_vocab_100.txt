@@ -1,0 +1,921 @@
+当然	dang ran 
+愿意	yuan yi 
+裁决	cai jue 
+开庭	kai ting 
+赌博罪	du bo zui 
+无偿	wu chang 
+债权	zhai quan 
+客运	ke yun 
+他人	ta ren 
+补充	bu chong 
+应当	ying dang 
+问题	wen ti 
+保卫	bao wei 
+嫌疑人	xian yi ren 
+纳税人	na shui ren 
+行为	xing wei 
+过半数	guo ban shu 
+社会化	she hui hua 
+运费	yun fei 
+意思	yi si 
+合法性	he fa xing 
+风险	feng xian 
+委员会	wei yuan hui 
+男子	nan zi 
+允许	yun xu 
+农村土地	nong cun tu di 
+自治权	zi zhi quan 
+解除	jie chu 
+利益	li yi 
+形态	xing tai 
+采性	cai xing 
+遗嘱	yi zhu 
+情形	qing xing 
+特殊	te shu 
+未成年人	wei cheng nian ren 
+援引	yuan yin 
+对象	dui xiang 
+卸货	xie huo 
+第一审	di yi shen 
+立遗嘱	li yi zhu 
+股东大会	gu dong da hui 
+术语	shu yu 
+开庭审理	kai ting shen li 
+牵连	qian lian 
+非常简单	fei chang jian dan 
+公示	gong shi 
+文件	wen jian 
+一律	yi lv 
+必须	bi xu 
+造成	zao cheng 
+刑事诉讼法	xing shi su song fa 
+发行人	fa xing ren 
+民事诉讼	min shi su song 
+质押	zhi ya 
+哪项	na xiang 
+工商行政	gong shang hang zheng 
+组织者	zu zhi zhe 
+认缴	ren jiao 
+签订合同	qian ding he tong 
+见证人	jian zheng ren 
+非法	fei fa 
+原物	yuan wu 
+特点	te dian 
+国际法院	guo ji fa yuan 
+平等	ping deng 
+开皇	kai huang 
+过渡性	guo du xing 
+货物	huo wu 
+录音	lu yin 
+法律条文	fa lv tiao wen 
+转交	zhuan jiao 
+律师	lv shi 
+专门	zhuan men 
+授权	shou quan 
+血统	xue tong 
+赔偿义务	pei chang yi wu 
+关于	guan yu 
+依法	yi fa 
+付款人	fu kuan ren 
+提请	ti qing 
+参加者	can jia zhe 
+必要	bi yao 
+申请材料	shen qing cai liao 
+归纳推理	gui na tui li 
+补充侦查	bu chong zhen cha 
+陪审员	pei shen yuan 
+犯罪行为	fan zui xing wei 
+方略	fang lve 
+人数	ren shu 
+装货	zhuang huo 
+证据	zheng ju 
+给予	ji yu 
+纷繁	fen fan 
+采用	cai yong 
+婚姻制度	hun yin zhi du 
+普通法	pu tong fa 
+纲常	gang chang 
+权证	quan zheng 
+举行	ju xing 
+分为	fen wei 
+国际公约	guo ji gong yue 
+挪用公款	nuo yong gong kuan 
+产业	chan ye 
+太原市	tai yuan shi 
+固定	gu ding 
+科学技术	ke xue ji shu 
+纳税	na shui 
+精确	jing que 
+国际贸易	guo ji mao yi 
+发展	fa zhan 
+物证	wu zheng 
+期间	qi jian 
+机构	ji gou 
+正在	zheng zai 
+行政许可	xing zheng xu ke 
+投票	tou piao 
+调解	tiao jie 
+辩论	bian lun 
+请求权	qing qiu quan 
+当选	dang xuan 
+无权	wu quan 
+确定	que ding 
+最后	zui hou 
+行政处罚	xing zheng chu fa 
+财产	cai chan 
+社会	she hui 
+启动	qi dong 
+经济	jing ji 
+范围	fan wei 
+除权	chu quan 
+組织	zu zhi 
+行为人	xing wei ren 
+刑期	xing qi 
+陈述	chen shu 
+受理	shou li 
+自治	zi zhi 
+准予	zhun yu 
+根本	gen ben 
+法律	fa lv 
+债券	zhai quan 
+财团法人	cai tuan fa ren 
+撤销	che xiao 
+高级法院	gao ji fa yuan 
+委托书	wei tuo shu 
+公法	gong fa 
+法律责任	fa lv ze ren 
+可以	ke yi 
+机关	ji guan 
+查阅	cha yue 
+手续	shou xu 
+公证员	gong zheng yuan 
+本人	ben ren 
+审判	shen pan 
+共同	gong tong 
+改进	gai jin 
+众多	zhong duo 
+公司法	gong si fa 
+法人	fa ren 
+劳动者	lao dong zhe 
+司法	si fa 
+人员	ren yuan 
+提出	ti chu 
+审理	shen li 
+天命	tian ming 
+处理	chu li 
+污染	wu ran 
+采纳	cai na 
+致使	zhi shi 
+限制	xian zhi 
+正式	zheng shi 
+措施	cuo shi 
+评价	ping jia 
+接受	jie shou 
+一审	yi shen 
+反倾销	fan qing xiao 
+世界贸易组织	shi jie mao yi zu zhi 
+司法制度	si fa zhi du 
+执行	zhi xing 
+诉讼时效	su song shi xiao 
+专用权	zhuan yong quan 
+深入	shen ru 
+设定	she ding 
+质询	zhi xun 
+个人所得税	ge ren suo de shui 
+事实	shi shi 
+催告	cui gao 
+守法	shou fa 
+组成	zu cheng 
+盗窃	dao qie 
+方式	fang shi 
+英美法	ying mei fa 
+检察官	jian cha guan 
+选举	xuan ju 
+事业	shi ye 
+仲裁庭	zhong cai ting 
+人民检察院	ren min jian cha yuan 
+犯罪	fan zui 
+规定	gui ding 
+成文宪法	cheng wen xian fa 
+不合理	bu he li 
+方法	fang fa 
+协商	xie shang 
+最高人民检察院	zui gao ren min jian cha yuan 
+宣告	xuan gao 
+单位	dan wei 
+体系	ti xi 
+网络	wang luo 
+货币	huo bi 
+附带	fu dai 
+以厂	yi chang 
+柔性	rou xing 
+不同	bu tong 
+原则	yuan ze 
+常委会	chang wei hui 
+债务人	zhai wu ren 
+推定	tui ding 
+假药	jia yao 
+技术	ji shu 
+充分	chong fen 
+下届	xia jie 
+赌博	du bo 
+交易	jiao yi 
+哪一	na yi 
+证券	zheng quan 
+议定书	yi ding shu 
+民族自治	min zu zi zhi 
+融券	rong quan 
+直辖市	zhi xia shi 
+案件	an jian 
+一方面	yi fang mian 
+裁定	cai ding 
+有权	you quan 
+执业	zhi ye 
+付款	fu kuan 
+不足	bu zu 
+规范	gui fan 
+终止	zhong zhi 
+一律平等	yi lv ping deng 
+碰撞	peng zhuang 
+投资人	tou zi ren 
+刑之所取	xing zhi suo qu 
+村民	cun min 
+隐匿	yin ni 
+撤消	che xiao 
+表决权	biao jue quan 
+录像	lu xiang 
+草案	cao an 
+抵触	di chu 
+现实生活	xian shi sheng huo 
+法规	fa gui 
+召集	zhao ji 
+赔偿	pei chang 
+内容	nei rong 
+婚姻	hun yin 
+经营权	jing ying quan 
+一般	yi ban 
+卖方	mai fang 
+要求	yao qiu 
+创造	chuang zao 
+地方	di fang 
+特别	te bie 
+渊源	yuan yuan 
+信息	xin xi 
+达到	da dao 
+之日起	zhi ri qi 
+存款	cun kuan 
+刑事责任	xing shi ze ren 
+英国	ying guo 
+退回	tui hui 
+设立	she li 
+补缴	bu jiao 
+错误	cuo wu 
+行政案件	xing zheng an jian 
+同意	tong yi 
+受到	shou dao 
+费用	fei yong 
+第二审	di er shen 
+成为	cheng wei 
+人民法院	ren min fa yuan 
+行使	xing shi 
+支票	zhi piao 
+民事法律	min shi fa lv 
+司法权	si fa quan 
+沿海	yan hai 
+辩护	bian hu 
+由受	you shou 
+仲裁员	zhong cai yuan 
+侦查	zhen cha 
+登记	deng ji 
+法国	fa guo 
+关联性	guan lian xing 
+准确	zhun que 
+良好	liang hao 
+认罪	ren zui 
+依据	yi ju 
+司法程序	si fa cheng xu 
+不得	bu de 
+被申请人	bei shen qing ren 
+兑付	dui fu 
+职能	zhi neng 
+承销	cheng xiao 
+行政法	xing zheng fa 
+制品	zhi pin 
+具体	ju ti 
+国务院法制办	guo wu yuan fa zhi ban 
+产品	chan pin 
+刑事诉讼	xing shi su song 
+保全	bao quan 
+典型	dian xing 
+自治州	zi zhi zhou 
+调整	tiao zheng 
+诉讼法	su song fa 
+死亡	si wang 
+独立	du li 
+代理	dai li 
+担任	dan ren 
+内国	nei guo 
+包销	bao xiao 
+中央军委	zhong yang jun wei 
+原件	yuan jian 
+垄断	long duan 
+刑事	xing shi 
+采购	cai gou 
+签章	qian zhang 
+一方	yi fang 
+提案	ti an 
+支出	zhi chu 
+统治	tong zhi 
+健康	jian kang 
+参赌	can du 
+作出	zuo chu 
+未成年	wei cheng nian 
+民事行为	min shi xing wei 
+一种	yi zhong 
+说法	shuo fa 
+审查	shen cha 
+国际货物	guo ji huo wu 
+翻译	fan yi 
+符合	fu he 
+条件	tiao jian 
+有效	you xiao 
+国际性	guo ji xing 
+每日	mei ri 
+自诉	zi su 
+归还	gui huan 
+侵占	qin zhan 
+责任	ze ren 
+职业	zhi ye 
+基本权利	ji ben quan li 
+法官	fa guan 
+无国籍	wu guo ji 
+止付	zhi fu 
+演绎推理	yan yi tui li 
+条约	tiao yue 
+政治权利	zheng zhi quan li 
+异议	yi yi 
+进口产品	jin kou chan pin 
+工商管理	gong shang guan li 
+民事	min shi 
+环境	huan jing 
+公正	gong zheng 
+开始	kai shi 
+依靠	yi kao 
+变造	bian zao 
+理事国	li shi guo 
+自首	zi shou 
+模式	mo shi 
+汉堡	han bao 
+法院	fa yuan 
+固有	gu you 
+契约	qi yue 
+作证	zuo zheng 
+部门	bu men 
+定罪	ding zui 
+党的领导	dang de ling dao 
+检务	jian wu 
+到庭	dao ting 
+武装力量	wu zhuang li liang 
+包括	bao kuo 
+民事案件	min shi an jian 
+性质	xing zhi 
+行使职权	xing shi zhi quan 
+建设者	jian she zhe 
+通过	tong guo 
+已经	yi jing 
+诉讼	su song 
+合议庭	he yi ting 
+缔约	di yue 
+涉外	she wai 
+侵犯	qin fan 
+创立	chuang li 
+参加	can jia 
+根据	gen ju 
+前提	qian ti 
+如何	ru he 
+政府	zheng fu 
+非常任	fei chang ren 
+委托	wei tuo 
+另行通知	ling xing tong zhi 
+刑事判决	xing shi pan jue 
+保障	bao zhang 
+意义	yi yi 
+纯粹	chun cui 
+伤害案	shang hai an 
+唐律	tang lv 
+自诉人	zi su ren 
+判断	pan duan 
+继承	ji cheng 
+扣押	kou ya 
+阻碍	zu ai 
+剥夺	bo duo 
+租赁	zu lin 
+刑事犯罪	xing shi fan zui 
+国家	guo jia 
+发生	fa sheng 
+职业道德	zhi ye dao de 
+本案	ben an 
+伪造	wei zao 
+理念	li nian 
+企业	qi ye 
+存款人	cun kuan ren 
+死刑	si xing 
+国务院	guo wu yuan 
+诉讼请求	su song qing qiu 
+依法治国	yi fa zhi guo 
+适用范围	shi yong fan wei 
+历史	li shi 
+近代	jin dai 
+让步	rang bu 
+促进	cu jin 
+财物	cai wu 
+充足率	chong zu lv 
+法律制裁	fa lv zhi cai 
+拒不执行	ju bu zhi xing 
+代为	dai wei 
+责任人员	ze ren ren yuan 
+船舶	chuan bo 
+公共卫生	gong gong wei sheng 
+作为	zuo wei 
+相对	xiang dui 
+法律文书	fa lv wen shu 
+视听资料	shi ting zi liao 
+债务	zhai wu 
+检察长	jian cha zhang 
+罗马法	luo ma fa 
+批准	pi zhun 
+民法	min fa 
+书记员	shu ji yuan 
+故意	gu yi 
+增强	zeng qiang 
+规章	gui zhang 
+商标	shang biao 
+密切联系	mi qie lian xi 
+专利权	zhuan li quan 
+相关性	xiang guan xing 
+私人	si ren 
+发达国家	fa da guo jia 
+程序	cheng xu 
+爱国统一战线	ai guo tong yi zhan xian 
+保护	bao hu 
+相符	xiang fu 
+道德	dao de 
+回避	hui bi 
+百分之八	bai fen zhi ba 
+赃物	zang wu 
+有关	you guan 
+依法办案	yi fa ban an 
+禁止	jin zhi 
+计算机程序	ji suan ji cheng xu 
+法律案	fa lv an 
+正确	zheng que 
+破产	po chan 
+婚龄	hun ling 
+妇女	fu nv 
+工人	gong ren 
+未满	wei man 
+安全装置	an quan zhuang zhi 
+刑事案件	xing shi an jian 
+指令	zhi ling 
+刚正不阿	gang zheng bu e 
+归纳	gui na 
+法律效力	fa lv xiao li 
+转变	zhuan bian 
+履行	lv xing 
+公共事务	gong gong shi wu 
+罚款	fa kuan 
+删节	shan jie 
+价值	jia zhi 
+未作	wei zuo 
+以上	yi shang 
+滥用职权	lan yong zhi quan 
+下级	xia ji 
+海事	hai shi 
+手段	shou duan 
+承担	cheng dan 
+捐赠	juan zeng 
+下列	xia lie 
+侵权行为	qin quan xing wei 
+公海	gong hai 
+重要依据	zhong yao yi ju 
+有限公司	you xian gong si 
+全国人民代表大会	quan guo ren min dai biao da hui 
+什么	shen me 
+买方	mai fang 
+案以	an yi 
+成员	cheng yuan 
+强制执行	qiang zhi zhi xing 
+国境	guo jing 
+另行	ling xing 
+贷款	dai kuan 
+设置	she zhi 
+内在	nei zai 
+宣判	xuan pan 
+权利义务	quan li yi wu 
+队伍	dui wu 
+落实	luo shi 
+二年	er nian 
+公开	gong kai 
+使用	shi yong 
+教唆	jiao suo 
+叙述	xu shu 
+思想观念	si xiang guan nian 
+出版物	chu ban wu 
+计算	ji suan 
+副检察长	fu jian cha zhang 
+单行	dan xing 
+要约	yao yue 
+经过	jing guo 
+每周	mei zhou 
+审判员	shen pan yuan 
+证人	zheng ren 
+违约	wei yue 
+行政诉讼	xing zheng su song 
+人民代表大会常务委员会	ren min dai biao da hui chang wu wei yuan hui 
+立法法	li fa fa 
+以下	yi xia 
+生产	sheng chan 
+解释	jie shi 
+没收	mo shou 
+自由	zi you 
+无期徒刑	wu qi tu xing 
+解除合同	jie chu he tong 
+仿效	fang xiao 
+明朝	ming chao 
+和谐一致	he xie yi zhi 
+自治机关	zi zhi ji guan 
+请求	qing qiu 
+人民政府	ren min zheng fu 
+滞纳金	zhi na jin 
+权力	quan li 
+质量标准	zhi liang biao zhun 
+金融债券	jin rong zhai quan 
+人大常委会	ren da chang wei hui 
+国际	guo ji 
+英国法	ying guo fa 
+执法	zhi fa 
+秩序	zhi xu 
+余额	yu e 
+出口	chu kou 
+常务委员会	chang wu wei yuan hui 
+检察	jian cha 
+实行	shi xing 
+为辅	wei fu 
+通则	tong ze 
+上届	shang jie 
+法庭	fa ting 
+国际惯例	guo ji guan li 
+气体	qi ti 
+行政	xing zheng 
+网上	wang shang 
+北齐	bei qi 
+秘密	mi mi 
+旅客	lv ke 
+融资	rong zi 
+体现	ti xian 
+起算后	qi suan hou 
+事务所	shi wu suo 
+缔结	di jie 
+人民调解	ren min tiao jie 
+再审	zai shen 
+主体	zhu ti 
+集体合同	ji ti he tong 
+明知	ming zhi 
+存在	cun zai 
+中小企业	zhong xiao qi ye 
+清偿	qing chang 
+建立	jian li 
+至少	zhi shao 
+发展中国家	fa zhan zhong guo jia 
+选区	xuan qu 
+社会主义	she hui zhu yi 
+自然灾害	zi ran zai hai 
+刑法	xing fa 
+权利	quan li 
+组织	zu zhi 
+地守持	di shou chi 
+或者	huo zhe 
+削减	xue jian 
+具备	ju bei 
+最高	zui gao 
+风格	feng ge 
+持续	chi xu 
+不服	bu fu 
+关系人	guan xi ren 
+财产权	cai chan quan 
+质物	zhi wu 
+事务性	shi wu xing 
+代理人	dai li ren 
+一项	yi xiang 
+权威	quan wei 
+签署	qian shu 
+猥亵罪	wei xie zui 
+民主	min zhu 
+运行	yun xing 
+标的	biao di 
+同级	tong ji 
+承保	cheng bao 
+汉书	han shu 
+提起	ti qi 
+刊登	kan deng 
+一定	yi ding 
+级别	ji bie 
+管理条例	guan li tiao li 
+协议	xie yi 
+祖国统一	zu guo tong yi 
+纪律处分	ji lv chu fen 
+管辖权	guan xia quan 
+知识产权	zhi shi chan quan 
+取得	qu de 
+事项	shi xiang 
+抗税	kang shui 
+表述	biao shu 
+行政处罚法	xing zheng chu fa fa 
+签发	qian fa 
+当事人	dang shi ren 
+自治县	zi zhi xian 
+局限性	ju xian xing 
+整体	zheng ti 
+招股	zhao gu 
+完善	wan shan 
+必然	bi ran 
+处罚金	chu fa jin 
+偷越	tou yue 
+兼采	jian cai 
+正当	zheng dang 
+建账	jian zhang 
+担保	dan bao 
+保证	bao zheng 
+领土	ling tu 
+全国人大	quan guo ren da 
+立法	li fa 
+上诉	shang su 
+安理会	an li hui 
+海洋法	hai yang fa 
+委托合同	wei tuo he tong 
+社会秩序	she hui zhi xu 
+制作	zhi zuo 
+简易程序	jian yi cheng xu 
+提供	ti gong 
+国家机关	guo jia ji guan 
+封建	feng jian 
+保险费	bao xian fei 
+复制件	fu zhi jian 
+转让	zhuan rang 
+债权人	zhai quan ren 
+拘留	ju liu 
+清楚	qing chu 
+合同	he tong 
+管理	guan li 
+实施	shi shi 
+专指	zhuan zhi 
+辨认	bian ren 
+罢免	ba mian 
+公司	gong si 
+全国人民代表大会常务委员会	quan guo ren min dai biao da hui chang wu wei yuan hui 
+认证	ren zheng 
+申诉	shen su 
+出庭作证	chu ting zuo zheng 
+判决	pan jue 
+社团	she tuan 
+情节严重	qing jie yan zhong 
+正犯	zheng fan 
+能力	neng li 
+联系	lian xi 
+协调	xie tiao 
+推理	tui li 
+辩护律师	bian hu lv shi 
+优先权	you xian quan 
+人大代表	ren da dai biao 
+变更	bian geng 
+监督	jian du 
+行为能力	xing wei neng li 
+地域	di yu 
+审理案件	shen li an jian 
+询问	xun wen 
+司法机关	si fa ji guan 
+常务会议	chang wu hui yi 
+本质	ben zhi 
+争议	zheng yi 
+没有	mei you 
+部分	bu fen 
+政体	zheng ti 
+合理	he li 
+选民	xuan min 
+上级法院	shang ji fa yuan 
+该证据	gai zheng ju 
+秘书长	mi shu zhang 
+证明	zheng ming 
+歧视	qi shi 
+重要	zhong yao 
+熟悉	shu xi 
+复制品	fu zhi pin 
+实体	shi ti 
+审计法	shen ji fa 
+询问笔录	xun wen bi lu 
+市场经济	shi chang jing ji 
+公安部队	gong an bu dui 
+延迟	yan chi 
+自认	zi ren 
+准备	zhun bei 
+知情人	zhi qing ren 
+不全	bu quan 
+一次性	yi ci xing 
+院长	yuan zhang 
+我国	wo guo 
+放弃	fang qi 
+具有	ju you 
+北洋政府	bei yang zheng fu 
+缓期	huan qi 
+批准权	pi zhun quan 
+销售	xiao shou 
+制作者	zhi zuo zhe 
+不尽	bu jin 
+转移	zhuan yi 
+董事	dong shi 
+执行权	zhi xing quan 
+公证	gong zheng 
+小时	xiao shi 
+商业银行	shang ye yin hang 
+进入	jin ru 
+民族乡	min zu xiang 
+被告	bei gao 
+享有	xiang you 
+公证机关	gong zheng ji guan 
+录制	lu zhi 
+违法	wei fa 
+原审	yuan shen 
+弱势群体	ruo shi qun ti 
+国籍	guo ji 
+中央军事委员会	zhong yang jun shi wei yuan hui 
+犯罪事实	fan zui shi shi 
+冲突	chong tu 
+通常	tong chang 
+信息网络	xin xi wang luo 
+客票	ke piao 
+时余刑	shi yu xing 
+论述	lun shu 
+竞争	jing zheng 
+美国	mei guo 
+保险金	bao xian jin 
+制度	zhi du 
+检察院	jian cha yuan 
+专用发票	zhuan yong fa piao 
+派遣	pai qian 
+信用证	xin yong zheng 
+审查起诉	shen cha qi su 
+情事	qing shi 
+著作权	zhu zuo quan 
+预防	yu fang 
+废止	fei zhi 
+告知	gao zhi 
+中华人民	zhong hua ren min 
+继续执行	ji xu zhi xing 
+描述	miao shu 
+自主性	zi zhu xing 
+反倾销税	fan qing xiao shui 
+义务	yi wu 
+抗诉	kang su 
+证券交易	zheng quan jiao yi 
+作品	zuo pin 
+书证	shu zheng 
+抵押	di ya 
+笔录	bi lu 
+会议	hui yi 
+从事	cong shi 
+自治区	zi zhi qu 
+司法解释	si fa jie shi 
+有限责任	you xian ze ren 
+维护	wei hu 
+贸易	mao yi 
+略低于	lve di yu 
+世界大同	shi jie da tong 
+二审	er shen 
+届满	jie man 
+外交官	wai jiao guan 
+指导	zhi dao 
+拘传	ju chuan 
+法定年龄	fa ding nian ling 
+教育	jiao yu 
+行政复议	xing zheng fu yi 
+外国人	wai guo ren 
+成立	cheng li 
+使用权	shi yong quan 
+律师资格	lv shi zi ge 
+实事求是	shi shi qiu shi 
+买卖	mai mai 
+缺席判决	que xi pan jue 
+过程	guo cheng 
+主席团	zhu xi tuan 
+国体	guo ti 
+监督管理	jian du guan li 
+习惯法	xi guan fa 
+是否	shi fou 
+驳回	bo hui 
+水果	shui guo 
+属于	shu yu 
+能否	neng fou 
+不能	bu neng 
+仲裁	zhong cai 
+照片	zhao pian 
+适用	shi yong 
+刑罚	xing fa 
+习惯	xi guan 
+全国人大常委会	quan guo ren da chang wei hui 
+涂改	tu gai 
+交货	jiao huo 
+重审	chong shen 
+中华人民共和国	zhong hua ren min gong he guo 
+主席	zhu xi 
+生效	sheng xiao 
+最高人民法院	zui gao ren min fa yuan 
+之间	zhi jian 
+中国籍	zhong guo ji 
+职权	zhi quan 
+明确	ming que 
+构建	gou jian 
+民事责任	min shi ze ren 
+清算	qing suan 
+同类产品	tong lei chan pin 
+主要	zhu yao 
+退税	tui shui 
+公款	gong kuan 
+管辖	guan xia 
+选项	xuan xiang 
+学者	xue zhe 
+哪些	nei xie 
+地方性	di fang xing 
+主张	zhu zhang 
+缴纳	jiao na 
+德国	de guo 
+客观性	ke guan xing 
+扣缴	kou jiao 
+有期徒刑	you qi tu xing 
+领导	ling dao 
+公共利益	gong gong li yi 
+侧重	ce zhong 
+非法经营	fei fa jing ying 
+国务委员	guo wu wei yuan 
+法定代理	fa ding dai li 
+配偶	pei ou 
+通信	tong xin 
+人民代表大会	ren min dai biao da hui 
+对于	dui yu 
+执法为民	zhi fa wei min 
+检察机关	jian cha ji guan 
+判处死刑	pan chu si xing 
+中国人民政治协商会议	zhong guo ren min zheng zhi xie shang hui yi 
+领馆	ling guan 
+申请	shen qing 
+陈宠传	chen chong chuan 
+撤回抗诉	che hui kang su 
+天罚	tian fa 
+管理人员	guan li ren yuan 
+拒绝	ju jue 
+直接	zhi jie 
+宪法	xian fa 
+密不可分	mi bu ke fen 
+最初	zui chu 
+公告	gong gao 
+改嫁	gai jia 
+可能	ke neng 
+金额	jin e 
+遵守	zun shou 
+选票	xuan piao 
+约束力	yue shu li 
+进行	jin xing 
+自觉遵守	zi jue zun shou 
+情节	qing jie 
+化肥	hua fei 
+现行法	xian xing fa 
+经济法	jing ji fa 
+权利能力	quan li neng li 
+成年人	cheng nian ren 
+平均	ping jun 
+制定	zhi ding 
+税务	shui wu 
+涉及	she ji 
+拆除	chai chu 
+取消	qu xiao 
+民法典	min fa dian 
+改变	gai bian 
+实务	shi wu 
+法定	fa ding 
+裁判	cai pan 
+香港特别行政区	xiang gang te bie xing zheng qu 
+法治	fa zhi 
+被告人	bei gao ren 
+环境保护	huan jing bao hu 
+房地产	fang di chan 
+承运人	cheng yun ren 
+目的	mu di 
+第一款	di yi kuan 
+决定	jue ding 
+候选人	hou xuan ren 
+文学作品	wen xue zuo pin 
+出示	chu shi 
+准据法	zhun ju fa 
+证券公司	zheng quan gong si 
+受益人	shou yi ren 
+负责	fu ze 
+公民	gong min 

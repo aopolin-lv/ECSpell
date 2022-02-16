@@ -1,0 +1,359 @@
+有益	you yi 
+麻烦	ma fan 
+影响	ying xiang 
+一只	yi zhi 
+请进来	qing jin lai 
+应该	ying gai 
+生子	sheng zi 
+酒量	jiu liang 
+因为	yin wei 
+科系	ke xi 
+追求	zhui qiu 
+然后	ran hou 
+妨碍	fang ai 
+健康	jian kang 
+大家	da jia 
+时候	shi hou 
+爸爸	ba ba 
+受不了	shou bu liao 
+艺术家	yi shu jia 
+寂寞	ji mo 
+一瓶	yi ping 
+享受	xiang shou 
+如果	ru guo 
+服务生	fu wu sheng 
+大学生	da xue sheng 
+唠叨	lao dao 
+拜托	bai tuo 
+怎么样	zen me yang 
+一笔	yi bi 
+可以	ke yi 
+忍耐	ren nai 
+讨论一下	tao lun yi xia 
+超过	chao guo 
+补习班	bu xi ban 
+难怪	nan guai 
+邻居	lin ju 
+不够	bu gou 
+天妇	tian fu 
+别忘了	bie wang le 
+这种	zhe zhong 
+生活品质	sheng huo pin zhi 
+诉取	su qu 
+不理	bu li 
+这个	zhe ge 
+另一半	ling yi ban 
+有名	you ming 
+教育	jiao yu 
+方便	fang bian 
+来得	lai de 
+卧房	wo fang 
+游学	you xue 
+完蛋	wan dan 
+所以	suo yi 
+晒太阳	shai tai yang 
+简讯	jian xun 
+看著	kan zhu 
+观念	guan nian 
+品质	pin zhi 
+过渡期	guo du qi 
+对不起	dui bu qi 
+受到	shou dao 
+包里	bao li 
+按照	an zhao 
+行云流水	xing yun liu shui 
+功课	gong ke 
+大概	da gai 
+还会	hai hui 
+教书	jiao shu 
+反对	fan dui 
+啤酒	pi jiu 
+得到	de dao 
+回忆	hui yi 
+万事如意	wan shi ru yi 
+八点钟	ba dian zhong 
+记录	ji lu 
+网络	wang luo 
+上班	shang ban 
+公车站	gong che zhan 
+师大	shi da 
+交朋友	jiao peng you 
+录影机	lu ying ji 
+我们	wo men 
+有装	you zhuang 
+朋友	peng you 
+时间	shi jian 
+录下来	lu xia lai 
+不好	bu hao 
+是因为	shi yin wei 
+记得	ji de 
+印象	yin xiang 
+要订	yao ding 
+存到	cun dao 
+何尝	he chang 
+解决	jie jue 
+右转	you zhuan 
+他们	ta men 
+尤其	you qi 
+一言一行	yi yan yi xing 
+解释	jie shi 
+情况	qing kuang 
+迟到	chi dao 
+追逐	zhui zhu 
+女生	nv sheng 
+噪音	zao yin 
+开心	kai xin 
+一下	yi xia 
+减少	jian shao 
+变更	bian geng 
+青菜	qing cai 
+机关	ji guan 
+紧张	jin zhang 
+有海	you hai 
+天气	tian qi 
+上半	shang ban 
+地去	di qu 
+接受	jie shou 
+不到	bu dao 
+下去	xia qu 
+心情	xin qing 
+弟弟	di di 
+跳舞	tiao wu 
+每次	mei ci 
+家长	jia zhang 
+祝你开心	zhu ni kai xin 
+一直	yi zhi 
+有山	you shan 
+迷路	mi lu 
+秋天	qiu tian 
+我会	wo hui 
+想像中	xiang xiang zhong 
+店帮	dian bang 
+东西	dong xi 
+同事	tong shi 
+父亲	fu qin 
+至少	zhi shao 
+了解	liao jie 
+再见	zai jian 
+打电话	da dian hua 
+绿色	lv se 
+吃饭	chi fan 
+外遇	wai yu 
+过敏	guo min 
+觉得	jue de 
+消息	xiao xi 
+比较	bi jiao 
+右边	you bian 
+该不该	gai bu gai 
+地图	di tu 
+现在	xian zai 
+暑假	shu jia 
+为什么	wei shen me 
+地方	di fang 
+那天	na tian 
+幸亏	xing kui 
+晚饭	wan fan 
+电话	dian hua 
+桌子	zhuo zi 
+哪些	nei xie 
+诉诸	su zhu 
+学校	xue xiao 
+怎么	zen me 
+辛苦	xin ku 
+再说	zai shuo 
+那边	na bian 
+观察	guan cha 
+好久不见	hao jiu bu jian 
+教导	jiao dao 
+看不懂	kan bu dong 
+金融	jin rong 
+建议	jian yi 
+哪有	na you 
+不怎么	bu zen me 
+要求	yao qiu 
+真的	zhen de 
+规划	gui hua 
+需要	xu yao 
+帮助	bang zhu 
+找空	zhao kong 
+留学	liu xue 
+著迷	zhu mi 
+重点	zhong dian 
+自己	zi ji 
+冲突	chong tu 
+告诉	gao su 
+不好意思	bu hao yi si 
+你们	ni men 
+身体健康	shen ti jian kang 
+权利	quan li 
+一半	yi ban 
+长得	zhang de 
+小时候	xiao shi hou 
+她们	ta men 
+乐观	le guan 
+老师	lao shi 
+告贵	gao gui 
+郊区	jiao qu 
+糊涂	hu tu 
+毅力	yi li 
+大开眼界	da kai yan jie 
+怎样	zen yang 
+喝啤酒	he pi jiu 
+值得	zhi de 
+教室	jiao shi 
+考虑	kao lv 
+小鸡	xiao ji 
+直接	zhi jie 
+破洞	po dong 
+隔天	ge tian 
+自从	zi cong 
+再加	zai jia 
+空气污染	kong qi wu ran 
+那个	na ge 
+地好	di hao 
+睡觉	shui jiao 
+妈妈	ma ma 
+书店	shu dian 
+实施	shi shi 
+这份	zhe fen 
+相片	xiang pian 
+舞会	wu hui 
+感情	gan qing 
+主意	zhu yi 
+整天	zheng tian 
+台湾	tai wan 
+旁边	pang bian 
+彻骨	che gu 
+关著	guan zhu 
+女孩子	nv hai zi 
+与此同时	yu ci tong shi 
+建立	jian li 
+女朋友	nv peng you 
+读书	du shu 
+困境	kun jing 
+求求	qiu qiu 
+既然	ji ran 
+一边	yi bian 
+污染	wu ran 
+的话	de hua 
+坏处	huai chu 
+身体	shen ti 
+轻松	qing song 
+如此一来	ru ci yi lai 
+还是	hai shi 
+为了	wei le 
+利用	li yong 
+国立	guo li 
+不半工	bu ban gong 
+意思	yi si 
+一起	yi qi 
+尚未	shang wei 
+年轻	nian qing 
+不想	bu xiang 
+那里	na li 
+积成	ji cheng 
+测量	ce liang 
+监狱	jian yu 
+一个	yi ge 
+匆忙	cong mang 
+拍照片	pai zhao pian 
+做法	zuo fa 
+请假	qing jia 
+优家	you jia 
+收到	shou dao 
+努力	nu li 
+炒饭	chao fan 
+台北	tai bei 
+不必	bu bi 
+不是	bu shi 
+声音	sheng yin 
+需求	xu qiu 
+环境污染	huan jing wu ran 
+走路	zou lu 
+家里	jia li 
+困难	kun nan 
+偷偷地	tou tou di 
+破坏	po huai 
+哪个	nei ge 
+地被	di bei 
+监控	jian kong 
+不得不	bu de bu 
+垃圾	la ji 
+误会	wu hui 
+重男轻女	zhong nan qing nv 
+旅行	lv xing 
+此份	ci fen 
+以外	yi wai 
+威胁	wei xie 
+懂得	dong de 
+买不到	mai bu dao 
+处罚	chu fa 
+面见	mian jian 
+还有	hai you 
+相当	xiang dang 
+休息	xiu xi 
+相信	xiang xin 
+礼拜	li bai 
+回覆	hui fu 
+失业	shi ye 
+易之思	yi zhi si 
+其实	qi shi 
+稀薄	xi bo 
+政府	zheng fu 
+那店	na dian 
+真正	zhen zheng 
+六点半	liu dian ban 
+身边	shen bian 
+纸条	zhi tiao 
+终于	zhong yu 
+文书	wen shu 
+很快	hen kuai 
+办法	ban fa 
+很饱	hen bao 
+纪念	ji nian 
+这是	zhe shi 
+订位	ding wei 
+超级市场	chao ji shi chang 
+再也	zai ye 
+图书馆	tu shu guan 
+各个	ge ge 
+没有	mei you 
+地位	di wei 
+坐在	zuo zai 
+怎么办	zen me ban 
+老鼠	lao shu 
+心里	xin li 
+加拿大	jia na da 
+检查	jian cha 
+冲动	chong dong 
+选择	xuan ze 
+什么	shen me 
+早餐	zao can 
+照相机	zhao xiang ji 
+时数	shi shu 
+抱怨	bao yuan 
+七个	qi ge 
+安静	an jing 
+亲爱	qin ai 
+墙壁	qiang bi 
+特征	te zheng 
+恢复	hui fu 
+方寸大乱	fang cun da luan 
+私立	si li 
+这样	zhe yang 
+地带	di dai 
+沟通	gou tong 
+参加	can jia 
+不过	bu guo 
+衣服	yi fu 
+好好儿	hao hao er 
+生命	sheng ming 
+试试看	shi shi kan 
+电脑	dian nao 
+汉字	han zi 
+知道	zhi dao 
+希望	xi wang 
+德文	de wen 
+职业妇女	zhi ye fu nv 
+一大堆	yi da dui 
+公馆	gong guan 

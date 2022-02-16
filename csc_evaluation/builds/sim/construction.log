@@ -1,0 +1,13 @@
+2021/07/31 17:44:47 - INFO - __main__:59 - Parameters:
+2021/07/31 17:44:47 - INFO - __main__:61 - add_simplified: True
+2021/07/31 17:44:47 - INFO - __main__:61 - add_traditional: False
+2021/07/31 17:44:47 - INFO - __main__:61 - val_size: 2000
+2021/07/31 17:44:47 - INFO - __main__:61 - use_test_as_val: True
+2021/07/31 17:44:47 - INFO - __main__:62 - 
+2021/07/31 17:44:47 - INFO - __main__:71 - Warning: use test set as valid set, the val_size parameter will be useless
+2021/07/31 17:44:47 - INFO - __main__:77 - Read file: data/basedata/simplified/train2015.txt, lines: 2339
+2021/07/31 17:44:47 - INFO - __main__:77 - Read file: data/basedata/simplified/train2013.txt, lines: 700
+2021/07/31 17:44:47 - INFO - __main__:77 - Read file: data/basedata/simplified/train2014.txt, lines: 3437
+2021/07/31 17:44:47 - INFO - __main__:77 - Read file: data/basedata/simplified/nlg.txt, lines: 271329
+2021/07/31 17:44:47 - INFO - __main__:80 - Total lines: 277805
+2021/07/31 17:44:48 - INFO - __main__:65 - Finish

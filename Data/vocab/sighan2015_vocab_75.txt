@@ -1,0 +1,291 @@
+测量	ce liang 
+大概	da gai 
+小鸡	xiao ji 
+卧房	wo fang 
+面见	mian jian 
+有名	you ming 
+那边	na bian 
+他们	ta men 
+减少	jian shao 
+懂得	dong de 
+小时候	xiao shi hou 
+交朋友	jiao peng you 
+空气污染	kong qi wu ran 
+地被	di bei 
+为了	wei le 
+易之思	yi zhi si 
+女孩子	nv hai zi 
+纪念	ji nian 
+上半	shang ban 
+重点	zhong dian 
+亲爱	qin ai 
+早餐	zao can 
+旅行	lv xing 
+录下来	lu xia lai 
+特征	te zheng 
+其实	qi shi 
+参加	can jia 
+感情	gan qing 
+服务生	fu wu sheng 
+应该	ying gai 
+按照	an zhao 
+一直	yi zhi 
+有海	you hai 
+那店	na dian 
+乐观	le guan 
+匆忙	cong mang 
+既然	ji ran 
+受不了	shou bu liao 
+自己	zi ji 
+忍耐	ren nai 
+八点钟	ba dian zhong 
+不是	bu shi 
+心里	xin li 
+希望	xi wang 
+尤其	you qi 
+再说	zai shuo 
+超级市场	chao ji shi chang 
+地好	di hao 
+了解	liao jie 
+相信	xiang xin 
+坐在	zuo zai 
+不够	bu gou 
+困境	kun jing 
+还是	hai shi 
+公车站	gong che zhan 
+做法	zuo fa 
+讨论一下	tao lun yi xia 
+桌子	zhuo zi 
+利用	li yong 
+消息	xiao xi 
+吃饭	chi fan 
+观察	guan cha 
+看不懂	kan bu dong 
+朋友	peng you 
+该不该	gai bu gai 
+什么	shen me 
+照相机	zhao xiang ji 
+寂寞	ji mo 
+不怎么	bu zen me 
+炒饭	chao fan 
+努力	nu li 
+拍照片	pai zhao pian 
+舞会	wu hui 
+主意	zhu yi 
+图书馆	tu shu guan 
+至少	zhi shao 
+怎么	zen me 
+教导	jiao dao 
+来得	lai de 
+时候	shi hou 
+因为	yin wei 
+店帮	dian bang 
+年轻	nian qing 
+唠叨	lao dao 
+自从	zi cong 
+可以	ke yi 
+告贵	gao gui 
+变更	bian geng 
+误会	wu hui 
+女朋友	nv peng you 
+污染	wu ran 
+怎么样	zen me yang 
+大学生	da xue sheng 
+现在	xian zai 
+辛苦	xin ku 
+学校	xue xiao 
+我会	wo hui 
+意思	yi si 
+麻烦	ma fan 
+紧张	jin zhang 
+一笔	yi bi 
+职业妇女	zhi ye fu nv 
+如此一来	ru ci yi lai 
+冲动	chong dong 
+影响	ying xiang 
+记录	ji lu 
+补习班	bu xi ban 
+积成	ji cheng 
+情况	qing kuang 
+尚未	shang wei 
+真的	zhen de 
+走路	zou lu 
+德文	de wen 
+为什么	wei shen me 
+迟到	chi dao 
+解决	jie jue 
+跳舞	tiao wu 
+抱怨	bao yuan 
+再见	zai jian 
+网络	wang luo 
+六点半	liu dian ban 
+另一半	ling yi ban 
+终于	zhong yu 
+值得	zhi de 
+解释	jie shi 
+何尝	he chang 
+暑假	shu jia 
+诉取	su qu 
+机关	ji guan 
+旁边	pang bian 
+地带	di dai 
+别忘了	bie wang le 
+过敏	guo min 
+一下	yi xia 
+好久不见	hao jiu bu jian 
+轻松	qing song 
+喝啤酒	he pi jiu 
+加拿大	jia na da 
+不过	bu guo 
+稀薄	xi bo 
+这是	zhe shi 
+整天	zheng tian 
+印象	yin xiang 
+坏处	huai chu 
+建议	jian yi 
+检查	jian cha 
+好好儿	hao hao er 
+追逐	zhui zhu 
+彻骨	che gu 
+要求	yao qiu 
+订位	ding wei 
+一半	yi ban 
+简讯	jian xun 
+外遇	wai yu 
+想像中	xiang xiang zhong 
+晒太阳	shai tai yang 
+一只	yi zhi 
+得到	de dao 
+女生	nv sheng 
+直接	zhi jie 
+老师	lao shi 
+需要	xu yao 
+家里	jia li 
+心情	xin qing 
+天气	tian qi 
+是因为	shi yin wei 
+求求	qiu qiu 
+难怪	nan guai 
+身体健康	shen ti jian kang 
+再加	zai jia 
+不得不	bu de bu 
+私立	si li 
+糊涂	hu tu 
+科系	ke xi 
+买不到	mai bu dao 
+隔天	ge tian 
+东西	dong xi 
+秋天	qiu tian 
+规划	gui hua 
+国立	guo li 
+七个	qi ge 
+方便	fang bian 
+垃圾	la ji 
+不半工	bu ban gong 
+要订	yao ding 
+游学	you xue 
+失业	shi ye 
+安静	an jing 
+健康	jian kang 
+真正	zhen zheng 
+书店	shu dian 
+监狱	jian yu 
+不必	bu bi 
+打电话	da dian hua 
+观念	guan nian 
+与此同时	yu ci tong shi 
+反对	fan dui 
+生命	sheng ming 
+留学	liu xue 
+绿色	lv se 
+偷偷地	tou tou di 
+不好	bu hao 
+青菜	qing cai 
+读书	du shu 
+不想	bu xiang 
+觉得	jue de 
+有山	you shan 
+那天	na tian 
+你们	ni men 
+噪音	zao yin 
+监控	jian kong 
+收到	shou dao 
+知道	zhi dao 
+艺术家	yi shu jia 
+方寸大乱	fang cun da luan 
+以外	yi wai 
+行云流水	xing yun liu shui 
+我们	wo men 
+下去	xia qu 
+找空	zhao kong 
+试试看	shi shi kan 
+记得	ji de 
+沟通	gou tong 
+开心	kai xin 
+弟弟	di di 
+完蛋	wan dan 
+不到	bu dao 
+功课	gong ke 
+怎么办	zen me ban 
+对不起	dui bu qi 
+重男轻女	zhong nan qing nv 
+办法	ban fa 
+回忆	hui yi 
+这样	zhe yang 
+家长	jia zhang 
+地去	di qu 
+地位	di wei 
+教室	jiao shi 
+需求	xu qiu 
+拜托	bai tuo 
+郊区	jiao qu 
+右边	you bian 
+相当	xiang dang 
+有益	you yi 
+一个	yi ge 
+诉诸	su zhu 
+那里	na li 
+回覆	hui fu 
+哪个	nei ge 
+地方	di fang 
+一起	yi qi 
+权利	quan li 
+存到	cun dao 
+啤酒	pi jiu 
+威胁	wei xie 
+录影机	lu ying ji 
+还会	hai hui 
+然后	ran hou 
+一边	yi bian 
+纸条	zhi tiao 
+的话	de hua 
+追求	zhui qiu 
+毅力	yi li 
+恢复	hui fu 
+困难	kun nan 
+破洞	po dong 
+地图	di tu 
+晚饭	wan fan 
+台北	tai bei 
+礼拜	li bai 
+大开眼界	da kai yan jie 
+墙壁	qiang bi 
+处罚	chu fa 
+品质	pin zhi 
+选择	xuan ze 
+怎样	zen yang 
+时数	shi shu 
+一瓶	yi ping 
+身体	shen ti 
+时间	shi jian 
+祝你开心	zhu ni kai xin 
+看著	kan zhu 
+相片	xiang pian 
+这份	zhe fen 
+哪有	na you 
+生活品质	sheng huo pin zhi 
+建立	jian li 
+帮助	bang zhu 
+比较	bi jiao 
+每次	mei ci 
+妈妈	ma ma 

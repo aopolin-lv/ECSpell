@@ -1,0 +1,12 @@
+{
+    "true_detected_char": 7,
+    "corrected_char": 9,
+    "wrong_char": 7,
+    "all_char": 79,
+    "true_corrected_char": 5,
+    "true_detected_sent": 4,
+    "corrected_sent": 6,
+    "wrong_sent": 5,
+    "all_sent": 9,
+    "true_corrected_sent": 3
+}

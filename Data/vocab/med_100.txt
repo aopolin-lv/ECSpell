@@ -1,0 +1,1361 @@
+微波	wei bo 
+调节	tiao jie 
+创伤	chuang shang 
+多发性	duo fa xing 
+监测	jian ce 
+眼炎	yan yan 
+脊柱	ji zhu 
+水肿	shui zhong 
+分泌物	fen mi wu 
+测定	ce ding 
+传染性	chuan ran xing 
+无力	wu li 
+平时	ping shi 
+烟酒	yan jiu 
+腰背	yao bei 
+热敷	re fu 
+隐形	yin xing 
+消化吸收	xiao hua xi shou 
+盲目	mang mu 
+侧卧位	ce wo wei 
+月经期	yue jing qi 
+胸腺	xiong xian 
+激素	ji su 
+次数	ci shu 
+长且	zhang qie 
+喉镜	hou jing 
+消融术	xiao rong shu 
+发现	fa xian 
+造影	zao ying 
+肥皂	fei zao 
+肾脏	shen zang 
+眼科医院	yan ke yi yuan 
+他乐克	ta le ke 
+便秘	bian mi 
+思维	si wei 
+乳膏	ru gao 
+周六	zhou liu 
+松弛	song chi 
+眼干	yan gan 
+麻痹	ma bi 
+慢性期	man xing qi 
+混合性	hun he xing 
+重建术	chong jian shu 
+静脉	jing mai 
+化疗	hua liao 
+子宫颈癌	zi gong jing ai 
+灌肠	guan chang 
+数值	shu zhi 
+反流性	fan liu xing 
+脓肿	nong zhong 
+心理咨询	xin li zi xun 
+细菌	xi jun 
+抗感染	kang gan ran 
+图片	tu pian 
+点药	dian yao 
+潜血	qian xue 
+严纵	yan zong 
+关注	guan zhu 
+津液	jin ye 
+麦粒肿	mai li zhong 
+充填	chong tian 
+护肝降	hu gan jiang 
+一段时间	yi duan shi jian 
+眉尾	mei wei 
+预防	yu fang 
+贝拉	bei la 
+冰糖	bing tang 
+抓挠	zhua nao 
+食物	shi wu 
+彩超	cai chao 
+轻音乐	qing yin yue 
+脚气	jiao qi 
+客气	ke qi 
+日晒	ri shai 
+劝告	quan gao 
+精神科	jing shen ke 
+理想	li xiang 
+双侧	shuang ce 
+以上	yi shang 
+灰指甲	hui zhi jia 
+外生殖器	wai sheng zhi qi 
+毛囊炎	mao nang yan 
+病毒性	bing du xing 
+当地	dang di 
+流血	liu xie 
+根本性	gen ben xing 
+表浅	biao qian 
+疼痛	teng tong 
+思密达	si mi da 
+了解	liao jie 
+两个	liang ge 
+结肠镜	jie chang jing 
+肾功能	shen gong neng 
+滑石粉	hua shi fen 
+保守	bao shou 
+意见	yi jian 
+胡退	hu tui 
+机体	ji ti 
+挂号	gua hao 
+去除	qu chu 
+阴道	yin dao 
+成活率	cheng huo lv 
+大多数	da duo shu 
+过度	guo du 
+建议	jian yi 
+儿童	er tong 
+水痘	shui dou 
+抑郁症	yi yu zheng 
+周四	zhou si 
+附近	fu jin 
+范围	fan wei 
+铁质	tie zhi 
+安定片	an ding pian 
+松软	song ruan 
+运动过度	yun dong guo du 
+仔细观察	zi xi guan cha 
+偏高	pian gao 
+不错	bu cuo 
+恶心	e xin 
+适合	shi he 
+臭味	chou wei 
+肥胖	fei pang 
+滴鼻	di bi 
+伽马刀	ga ma dao 
+苦参	ku shen 
+二氧化碳	er yang hua tan 
+供给	gong ji 
+糜烂	mi lan 
+红疹	hong zhen 
+髌腱	bin jian 
+出现	chu xian 
+延长	yan chang 
+休克	xiu ke 
+保养	bao yang 
+结膜炎	jie mo yan 
+堵塞	du se 
+清洁	qing jie 
+阳性	yang xing 
+腹腔镜	fu qiang jing 
+位置	wei zhi 
+疱疹	pao zhen 
+综合症	zong he zheng 
+固肠	gu chang 
+眉峰	mei feng 
+哪一天	na yi tian 
+上呼吸道	shang hu xi dao 
+抵抗力	di kang li 
+目前	mu qian 
+风湿性关节炎	feng shi xing guan jie yan 
+术后	shu hou 
+推出	tui chu 
+洗脚	xi jiao 
+照射	zhao she 
+熬水	ao shui 
+膝关节	xi guan jie 
+逐渐	zhu jian 
+公办	gong ban 
+胃炎	wei yan 
+妊娠	ren shen 
+停用	ting yong 
+性关系	xing guan xi 
+畸形	ji xing 
+室内外	shi nei wai 
+生活习惯	sheng huo xi guan 
+病情严重	bing qing yan zhong 
+性生活	xing sheng huo 
+血脂	xue zhi 
+卵巢	luan chao 
+干扰素	gan rao su 
+应该	ying gai 
+疗程	liao cheng 
+龟龄集	gui ling ji 
+颅内	lu nei 
+益气健	yi qi jian 
+风湿	feng shi 
+罗米芬	luo mi fen 
+病毒	bing du 
+抗炎	kang yan 
+早泄	zao xie 
+黑芝麻	hei zhi ma 
+医生	yi sheng 
+内分泌	nei fen mi 
+配方	pei fang 
+肠蠕动	chang ru dong 
+摆脱	bai tuo 
+增大	zeng da 
+发作	fa zuo 
+耳部	er bu 
+隐匿性	yin ni xing 
+性传播	xing chuan bo 
+柴胡	chai hu 
+疗法	liao fa 
+医院	yi yuan 
+动脉血	dong mai xue 
+支气管炎	zhi qi guan yan 
+电烧	dian shao 
+城市	cheng shi 
+乙肝病毒	yi gan bing du 
+采用	cai yong 
+阴性	yin xing 
+支原体	zhi yuan ti 
+喷雾	pen wu 
+敏感	min gan 
+依据	yi ju 
+微创	wei chuang 
+大三阳	da san yang 
+疗效	liao xiao 
+优质	you zhi 
+专业	zhuan ye 
+鼻内	bi nei 
+青蒿	qing hao 
+甲亢	jia kang 
+糖分	tang fen 
+西红柿	xi hong shi 
+表现	biao xian 
+激光治疗	ji guang zhi liao 
+红肿	hong zhong 
+胆结石	dan jie shi 
+钙化	gai hua 
+切除	qie chu 
+左耳	zuo er 
+保健品	bao jian pin 
+剥除	bao chu 
+但是	dan shi 
+筛查	shai cha 
+男性	nan xing 
+骨龄	gu ling 
+神经痛	shen jing tong 
+性行为	xing xing wei 
+体内	ti nei 
+专科医院	zhuan ke yi yuan 
+精索	jing suo 
+对乙酰氨基酚	dui yi xian an ji fen 
+临床医学	lin chuang yi xue 
+泌尿外科	mi niao wai ke 
+再说	zai shuo 
+盐分	yan fen 
+肺癌	fei ai 
+愉快	yu kuai 
+结节性	jie jie xing 
+溃疡性	kui yang xing 
+葡萄糖酸钙	pu tao tang suan gai 
+医嘱	yi zhu 
+口服液	kou fu ye 
+动作	dong zuo 
+静脉注射	jing mai zhu she 
+黏膜	nian mo 
+炎症性	yan zheng xing 
+挑食	tiao shi 
+原发	yuan fa 
+以免	yi mian 
+乳头	ru tou 
+肝功	gan gong 
+帮到	bang dao 
+煎炒	jian chao 
+甲状腺肿	jia zhuang xian zhong 
+射频	she pin 
+造成	zao cheng 
+滑膜炎	hua mo yan 
+形态	xing tai 
+摄入	she ru 
+升高	sheng gao 
+碎片	sui pian 
+促性腺激	cu xing xian ji 
+失调	shi tiao 
+嘌呤	piao ling 
+不必	bu bi 
+骨折	gu zhe 
+人流	ren liu 
+润喉	run hou 
+死亡	si wang 
+开刀	kai dao 
+确定	que ding 
+辅食	fu shi 
+地塞米松	di sai mi song 
+迷路	mi lu 
+免费	mian fei 
+受孕	shou yun 
+角膜	jiao mo 
+用药	yong yao 
+视诊	shi zhen 
+胃部	wei bu 
+明显	ming xian 
+咽鼓管	yan gu guan 
+超过	chao guo 
+途径	tu jing 
+氨酚	an fen 
+祛除	qu chu 
+电测	dian ce 
+鼻腔	bi qiang 
+场所	chang suo 
+坚持	jian chi 
+重睑	zhong jian 
+体位	ti wei 
+肇事者	zhao shi zhe 
+肺叶	fei ye 
+整体	zheng ti 
+无菌	wu jun 
+少精	shao jing 
+咳敏分	ke min fen 
+阑尾炎	lan wei yan 
+硅酮	gui tong 
+解决	jie jue 
+应用	ying yong 
+高峰期	gao feng qi 
+不宜	bu yi 
+院区	yuan qu 
+痛经	tong jing 
+局部	ju bu 
+数分钟	shu fen zhong 
+动脉硬化	dong mai ying hua 
+血压高	xue ya gao 
+电解质	dian jie zhi 
+温开水	wen kai shui 
+抗体	kang ti 
+专门	zhuan men 
+艾滋病	ai zi bing 
+体表	ti biao 
+符合	fu he 
+静脉曲张	jing mai qu zhang 
+辩证	bian zheng 
+征象	zheng xiang 
+方案	fang an 
+干燥	gan zao 
+药制剂	yao zhi ji 
+那雄胺	na xiong an 
+疾病	ji bing 
+卫生	wei sheng 
+新出	xin chu 
+门诊	men zhen 
+脑血管	nao xue guan 
+脑水肿	nao shui zhong 
+经量	jing liang 
+听诊	ting zhen 
+手术	shou shu 
+忌食	ji shi 
+成熟	cheng shu 
+一旦	yi dan 
+以及	yi ji 
+泡泡	pao pao 
+蛤蟆	ha ma 
+全或无	quan huo wu 
+精子	jing zi 
+脚盆	jiao pen 
+鼻塞	bi sai 
+干净	gan jing 
+谷类	gu lei 
+干预	gan yu 
+停停	ting ting 
+脚部	jiao bu 
+组织	zu zhi 
+局限	ju xian 
+侵犯	qin fan 
+宝宝	bao bao 
+中枢	zhong shu 
+洛尔	luo er 
+临床表现	lin chuang biao xian 
+四肢	si zhi 
+耳鸣	er ming 
+胎盘	tai pan 
+误区	wu qu 
+青光眼	qing guang yan 
+多动症	duo dong zheng 
+中医	zhong yi 
+脂溢	zhi yi 
+发红	fa hong 
+健脾	jian pi 
+低蛋白	di dan bai 
+肠系膜	chang xi mo 
+服药	fu yao 
+上睑	shang jian 
+晕眩	yun xuan 
+异常	yi chang 
+胃肠炎	wei chang yan 
+两侧	liang ce 
+化学治疗	hua xue zhi liao 
+性伴	xing ban 
+脑瘫	nao tan 
+血液循环	xue ye xun huan 
+皮损	pi sun 
+传染	chuan ran 
+发病	fa bing 
+髋关节	kuan guan jie 
+新陈代谢	xin chen dai xie 
+吃饱	chi bao 
+意识	yi shi 
+价格	jia ge 
+油炸	you zha 
+白芍	bai shao 
+原因	yuan yin 
+植皮	zhi pi 
+止痛药	zhi tong yao 
+乐观	le guan 
+内膜	nei mo 
+体液	ti ye 
+植物	zhi wu 
+涂抹	tu mo 
+试管婴儿	shi guan ying er 
+睡眠	shui mian 
+身体	shen ti 
+呼吸机	hu xi ji 
+肺炎	fei yan 
+低脂肪	di zhi fang 
+胎儿	tai er 
+心理压力	xin li ya li 
+青霉素	qing mei su 
+由于	you yu 
+观察	guan cha 
+激光	ji guang 
+排尿	pai niao 
+扩张	kuo zhang 
+真菌	zhen jun 
+槽牙	cao ya 
+保障	bao zhang 
+恢复	hui fu 
+冷冻	leng dong 
+详见	xiang jian 
+患儿	huan er 
+肝气	gan qi 
+旺盛	wang sheng 
+丘疹	qiu zhen 
+咳痰	ke tan 
+疤痕	ba hen 
+自己	zi ji 
+调养	tiao yang 
+关系	guan xi 
+就诊	jiu zhen 
+前列腺炎	qian lie xian yan 
+交叉感染	jiao cha gan ran 
+心电图	xin dian tu 
+孩子	hai zi 
+病人	bing ren 
+蛋白质	dan bai zhi 
+颞部	nie bu 
+消瘦	xiao shou 
+螨虫	man chong 
+超声	chao sheng 
+慢性	man xing 
+免疫治疗	mian yi zhi liao 
+克罗恩	ke luo en 
+颈椎	jing chui 
+盆腔炎	pen qiang yan 
+一个月	yi ge yue 
+首先	shou xian 
+保险	bao xian 
+金蝉	jin chan 
+阑尾	lan wei 
+呕吐	ou tu 
+发育	fa yu 
+吸收	xi shou 
+继续	ji xu 
+病变	bing bian 
+体育锻炼	ti yu duan lian 
+肺结核	fei jie he 
+发生	fa sheng 
+咖啡	ka fei 
+看看	kan kan 
+胆碱能	dan jian neng 
+沉气	chen qi 
+侵入	qin ru 
+健康	jian kang 
+照看	zhao kan 
+取决于	qu jue yu 
+降压	jiang ya 
+雌激素	ci ji su 
+所谓	suo wei 
+清热解毒	qing re jie du 
+消炎片	xiao yan pian 
+抗病毒	kang bing du 
+三楼	san lou 
+服用	fu yong 
+寒凉	han liang 
+指导	zhi dao 
+病毒灵	bing du ling 
+感冒	gan mao 
+发给	fa gei 
+宫外孕	gong wai yun 
+修眉刀	xiu mei dao 
+已经	yi jing 
+差距	cha ju 
+小孩子	xiao hai zi 
+规范	gui fan 
+致病	zhi bing 
+患者	huan zhe 
+利湿	li shi 
+应予	ying yu 
+诱发	you fa 
+为宜	wei yi 
+及拉贝	ji la bei 
+建设	jian she 
+降火	jiang huo 
+结肠炎	jie chang yan 
+抗抑郁	kang yi yu 
+通过	tong guo 
+先进	xian jin 
+洗液	xi ye 
+部位	bu wei 
+风险	feng xian 
+刺激	ci ji 
+错位	cuo wei 
+皮肤	pi fu 
+宫腔	gong qiang 
+肝细胞	gan xi bao 
+渣滓	zha zi 
+核磁	he ci 
+醋酸	cu suan 
+障碍	zhang ai 
+印象	yin xiang 
+状态	zhuang tai 
+要求	yao qiu 
+股癣	gu xuan 
+甲状腺	jia zhuang xian 
+辨证论治	bian zheng lun zhi 
+脾脏	pi zang 
+诊断	zhen duan 
+微量元素	wei liang yuan su 
+缺乏	que fa 
+保肝	bao gan 
+眼干痒	yan gan yang 
+肢体	zhi ti 
+用清	yong qing 
+能治好	neng zhi hao 
+再度	zai du 
+急性	ji xing 
+和谐	he xie 
+耳道	er dao 
+哮喘	xiao chuan 
+手外科	shou wai ke 
+阿莫西林	a mo xi lin 
+上海市第一人民医院	shang hai shi di yi ren min yi yuan 
+患有	huan you 
+成瘾	cheng yin 
+聊天	liao tian 
+第二支	di er zhi 
+眼压	yan ya 
+垂体瘤	chui ti liu 
+溃疡	kui yang 
+集体	ji ti 
+平均数	ping jun shu 
+做手术	zuo shou shu 
+溃烂	kui lan 
+肋骨	lei gu 
+多动	duo dong 
+烫洗	tang xi 
+复方	fu fang 
+做肠	zuo chang 
+不适	bu shi 
+低廉	di lian 
+补脾益	bu pi yi 
+心率	xin lv 
+月经周期	yue jing zhou qi 
+病程	bing cheng 
+毓婷	yu ting 
+尿道炎	niao dao yan 
+胃片	wei pian 
+配合	pei he 
+抗生素	kang sheng su 
+控制	kong zhi 
+专科	zhuan ke 
+受精卵	shou jing luan 
+倾向	qing xiang 
+油腻	you ni 
+此病	ci bing 
+纵隔	zong ge 
+发展	fa zhan 
+增强体质	zeng qiang ti zhi 
+烫发	tang fa 
+孕酮	yun tong 
+清除	qing chu 
+肺部	fei bu 
+保留	bao liu 
+情况	qing kuang 
+精神病院	jing shen bing yuan 
+外阴炎	wai yin yan 
+是因为	shi yin wei 
+肠炎	chang yan 
+单次	dan ci 
+肝癌	gan ai 
+消退	xiao tui 
+白带	bai dai 
+生育能力	sheng yu neng li 
+恢复健康	hui fu jian kang 
+癫痫	dian xian 
+消化	xiao hua 
+体质	ti zhi 
+抗真菌	kang zhen jun 
+解剖	jie pou 
+病毒感染	bing du gan ran 
+查体	cha ti 
+先兆	xian zhao 
+水分	shui fen 
+大便	da bian 
+细胞	xi bao 
+深褐	shen he 
+用来	yong lai 
+大约	da yue 
+达芬奇	da fen qi 
+双歧	shuang qi 
+长痘痘	zhang dou dou 
+淋巴结	lin ba jie 
+共用	gong yong 
+检查一下	jian cha yi xia 
+萎缩	wei suo 
+通道	tong dao 
+风湿性	feng shi xing 
+排卵期	pai luan qi 
+抗焦虑	kang jiao lv 
+肛管	gang guan 
+宫颈炎	gong jing yan 
+华素	hua su 
+帕林	pa lin 
+排便	pai bian 
+转氨酶	zhuan an mei 
+黄体	huang ti 
+湿阻	shi zu 
+后期	hou qi 
+活血	huo xue 
+卵巢功能	luan chao gong neng 
+介入	jie ru 
+囊肿	nang zhong 
+紊乱	wen luan 
+中药	zhong yao 
+精神压力	jing shen ya li 
+血管瘤	xue guan liu 
+频率	pin lv 
+一颈	yi jing 
+蓝芩	lan qin 
+增加	zeng jia 
+牡蛎	mu li 
+你好	ni hao 
+酸钠	suan na 
+癌细胞	ai xi bao 
+处理	chu li 
+辅助	fu zhu 
+稀疏	xi shu 
+眼球	yan qiu 
+三金片	san jin pian 
+药膏	yao gao 
+尿频	niao pin 
+暴发型	bao fa xing 
+黑色素瘤	hei se su liu 
+罗红霉素	luo hong mei su 
+事项	shi xiang 
+浸润	jin run 
+通血	tong xue 
+失眠	shi mian 
+槟榔	bing lang 
+要少食	yao shao shi 
+生精	sheng jing 
+建议您	jian yi nin 
+增厚	zeng hou 
+狭窄	xia zhai 
+放疗	fang liao 
+解答	jie da 
+避开	bi kai 
+项目	xiang mu 
+联系	lian xi 
+急性期	ji xing qi 
+多余	duo yu 
+耳鼻喉	er bi hou 
+鹅口疮	e kou chuang 
+食道癌	shi dao ai 
+器官	qi guan 
+损害	sun hai 
+淋巴	lin ba 
+肚脐	du qi 
+检查报告	jian cha bao gao 
+皮屑	pi xie 
+抽血	chou xue 
+敏感性	min gan xing 
+肝炎	gan yan 
+胰岛素	yi dao su 
+盐水	yan shui 
+枣仁	zao ren 
+一体	yi ti 
+抗酸	kang suan 
+转移	zhuan yi 
+定喘	ding chuan 
+鸡冠	ji guan 
+白血球	bai xue qiu 
+尿液	niao ye 
+足疗	zu liao 
+对症	dui zheng 
+霉素	mei su 
+专家	zhuan jia 
+属于	shu yu 
+调整	tiao zheng 
+抗惊厥	kang jing jue 
+肠腔	chang qiang 
+医疗	yi liao 
+医疗机构	yi liao ji gou 
+呋喃妥因	fu nan tuo yin 
+副作用	fu zuo yong 
+热水	re shui 
+正规	zheng gui 
+结核	jie he 
+反弹	fan dan 
+绝对	jue dui 
+护肝片	hu gan pian 
+卵巢囊肿	luan chao nang zhong 
+硝苯地平	xiao ben di ping 
+停药	ting yao 
+治愈	zhi yu 
+血压	xue ya 
+视力	shi li 
+非常	fei chang 
+淋病	lin bing 
+尿道感染	niao dao gan ran 
+纯中药	chun zhong yao 
+脑部	nao bu 
+有效	you xiao 
+白癜风	bai dian feng 
+甲硝唑	jia xiao zuo 
+多样化	duo yang hua 
+根据	gen ju 
+雄激素	xiong ji su 
+胃胀	wei zhang 
+听下	ting xia 
+正常	zheng chang 
+饮食	yin shi 
+外界	wai jie 
+类药物	lei yao wu 
+牛皮癣	niu pi xuan 
+不良影响	bu liang ying xiang 
+性病	xing bing 
+独到	du dao 
+减少	jian shao 
+外治	wai zhi 
+判断	pan duan 
+过敏源	guo min yuan 
+纠正	jiu zheng 
+乳腺	ru xian 
+胸片	xiong pian 
+肝脏	gan zang 
+感染	gan ran 
+评估	ping gu 
+指标	zhi biao 
+无机盐	wu ji yan 
+病情	bing qing 
+一流	yi liu 
+置换	zhi huan 
+早晨	zao chen 
+相关检查	xiang guan jian cha 
+肥甘	fei gan 
+带环	dai huan 
+特殊	te shu 
+泌尿科	mi niao ke 
+忧郁症	you yu zheng 
+血红蛋白	xue hong dan bai 
+特征性	te zheng xing 
+增强	zeng qiang 
+吹奏	chui zou 
+抽搐	chou chu 
+情绪	qing xu 
+脾虚	pi xu 
+不净	bu jing 
+灌注	guan zhu 
+所述	suo shu 
+休息	xiu xi 
+完整	wan zheng 
+黄体酮	huang ti tong 
+调理	tiao li 
+生地	sheng di 
+胎停	tai ting 
+人工流产	ren gong liu chan 
+肝硬化	gan ying hua 
+耐心	nai xin 
+轻软	qing ruan 
+肝病	gan bing 
+波依定	bo yi ding 
+溃疡面	kui yang mian 
+神经性	shen jing xing 
+六味地黄	liu wei di huang 
+对线	dui xian 
+训练	xun lian 
+合剂	he ji 
+安全	an quan 
+系统性	xi tong xing 
+不大故	bu da gu 
+考虑	kao lv 
+第三支	di san zhi 
+闷热	men re 
+矫正视力	jiao zheng shi li 
+裂斑	lie ban 
+六项	liu xiang 
+安神	an shen 
+神经系统	shen jing xi tong 
+舌系带	she ji dai 
+维生素	wei sheng su 
+出血	chu xue 
+分辨	fen bian 
+方向	fang xiang 
+尿痛	niao tong 
+湿疹	shi zhen 
+或者	huo zhe 
+大概	da gai 
+破溃	po kui 
+痛苦	tong ku 
+危害	wei hai 
+荨麻疹	xun ma zhen 
+老年	lao nian 
+纤维素	xian wei su 
+身体素质	shen ti su zhi 
+祝您健康	zhu nin jian kang 
+葡萄球菌	pu tao qiu jun 
+咳血	ke xue 
+偏高则	pian gao ze 
+人士	ren shi 
+早日康复	zao ri kang fu 
+风湿热	feng shi re 
+矫治	jiao zhi 
+药流后	yao liu hou 
+眉型	mei xing 
+内科	nei ke 
+一支	yi zhi 
+预约	yu yue 
+影响	ying xiang 
+类似	lei si 
+不限号	bu xian hao 
+处于	chu yu 
+物理	wu li 
+清水	qing shui 
+生育	sheng yu 
+慎重	shen zhong 
+腹部	fu bu 
+另外	ling wai 
+保持	bao chi 
+使用	shi yong 
+药品	yao pin 
+生物	sheng wu 
+一般	yi ban 
+活动	huo dong 
+清淡	qing dan 
+生长激素	sheng zhang ji su 
+稍微	shao wei 
+息肉	xi rou 
+放射治疗	fang she zhi liao 
+检测	jian ce 
+特效	te xiao 
+血不养	xue bu yang 
+消炎药	xiao yan yao 
+流产	liu chan 
+早产儿	zao chan er 
+复查	fu cha 
+详细	xiang xi 
+阿米	a mi 
+止血	zhi xue 
+改善	gai shan 
+连续	lian xu 
+降温	jiang wen 
+氨基酸	an ji suan 
+瘙痒	sao yang 
+扁桃体炎	bian tao ti yan 
+黄柏	huang bai 
+通常	tong chang 
+免疫	mian yi 
+导致	dao zhi 
+咀嚼片	ju jue pian 
+注射	zhu she 
+体温	ti wen 
+因素	yin su 
+肝功能	gan gong neng 
+癌肿	ai zhong 
+结石	jie shi 
+肛周	gang zhou 
+拒绝	ju jue 
+激动	ji dong 
+继发性	ji fa xing 
+积热	ji re 
+增生	zeng sheng 
+肛裂	gang lie 
+问题	wen ti 
+碎石	sui shi 
+畅通	chang tong 
+蔬菜	shu cai 
+毛发	mao fa 
+宫颈	gong jing 
+依赖	yi lai 
+雌性激素	ci xing ji su 
+需要	xu yao 
+歧视	qi shi 
+顺产	shun chan 
+太大	tai da 
+下颌	xia he 
+恶性肿瘤	e xing zhong liu 
+胆红素	dan hong su 
+牙龈炎	ya yin yan 
+丹参酮	dan shen tong 
+高血脂	gao xue zhi 
+临床	lin chuang 
+原发性	yuan fa xing 
+辣椒	la jiao 
+高血压	gao xue ya 
+漱口	shu kou 
+胳膊	ge bo 
+胶囊	jiao nang 
+消化科	xiao hua ke 
+常见	chang jian 
+小三阳	xiao san yang 
+注意	zhu yi 
+熬夜	ao ye 
+润滑	run hua 
+免疫能力	mian yi neng li 
+受到	shou dao 
+子宫	zi gong 
+易消化	yi xiao hua 
+清创术	qing chuang shu 
+带状疱疹	dai zhuang pao zhen 
+一侧	yi ce 
+促排卵	cu pai luan 
+即可	ji ke 
+积水	ji shui 
+优生优育	you sheng you yu 
+吃饭	chi fan 
+归根结底	gui gen jie di 
+滴沥	di li 
+精神	jing shen 
+乳腺癌	ru xian ai 
+悲痛欲绝	bei tong yu jue 
+护理	hu li 
+适当	shi dang 
+描述	miao shu 
+淋巴瘤	lin ba liu 
+角膜炎	jiao mo yan 
+皮疹	pi zhen 
+模糊	mo hu 
+结果	jie guo 
+药物	yao wu 
+替林	ti lin 
+矫正	jiao zheng 
+禁烟	jin yan 
+外敷	wai fu 
+香砂	xiang sha 
+分析	fen xi 
+运动	yun dong 
+外阴	wai yin 
+血常规	xue chang gui 
+癌变	ai bian 
+皮肤病	pi fu bing 
+尿急	niao ji 
+前列腺	qian lie xian 
+三叉神经痛	san cha shen jing tong 
+分期	fen qi 
+血栓	xue shuan 
+氟哌酸	fu pai suan 
+规律	gui lv 
+按照	an zhao 
+妇科疾病	fu ke ji bing 
+贫血	pin xue 
+缝合	feng he 
+尿道	niao dao 
+红细胞	hong xi bao 
+发源	fa yuan 
+沟通	gou tong 
+多支	duo zhi 
+乙肝	yi gan 
+精囊炎	jing nang yan 
+肉芽肿	rou ya zhong 
+咽喉炎	yan hou yan 
+严重	yan zhong 
+软膏	ruan gao 
+含有	han you 
+精神分裂症	jing shen fen lie zheng 
+神经	shen jing 
+重建	chong jian 
+支具	zhi ju 
+咳嗽	ke sou 
+脑充血	nao chong xue 
+输卵管	shu luan guan 
+肇事	zhao shi 
+单纯	dan chun 
+葡萄糖	pu tao tang 
+治病	zhi bing 
+神经衰弱	shen jing shuai ruo 
+杂毛	za mao 
+免疫力	mian yi li 
+起来	qi lai 
+生理性	sheng li xing 
+提示	ti shi 
+一次	yi ci 
+住院	zhu yuan 
+油剂	you ji 
+多囊	duo nang 
+药用价值	yao yong jia zhi 
+奶粉	nai fen 
+灼伤	zhuo shang 
+梅毒	mei du 
+肾病	shen bing 
+泌尿	mi niao 
+而定	er ding 
+乙肝疫苗	yi gan yi miao 
+氨基	an ji 
+具体分析	ju ti fen xi 
+矿物质	kuang wu zhi 
+凝血	ning xue 
+心理疾病	xin li ji bing 
+输血	shu xue 
+碳酸氢钠	tan suan qing na 
+抗炎药	kang yan yao 
+恶性	e xing 
+流鼻血	liu bi xue 
+疏肝	shu gan 
+油脂	you zhi 
+哪天	na tian 
+健全	jian quan 
+鞣酸	rou suan 
+口腔	kou qiang 
+奥美拉唑	ao mei la zuo 
+搭配	da pei 
+脂肪肝	zhi fang gan 
+癫痫病	dian xian bing 
+费用	fei yong 
+衰退	shuai tui 
+缓解	huan jie 
+阻止	zu zhi 
+排忧解难	pai you jie nan 
+眩晕	xuan yun 
+表面	biao mian 
+结核杆菌	jie he gan jun 
+传播	chuan bo 
+释放出来	shi fang chu lai 
+蛋白尿	dan bai niao 
+规律性	gui lv xing 
+分泌	fen mi 
+头孢菌素	tou bao jun su 
+陈旧	chen jiu 
+供血	gong xue 
+早衰	zao shuai 
+下降	xia jiang 
+异丙嗪	yi bing qin 
+化验	hua yan 
+辛辣	xin la 
+裸露	luo lu 
+破裂	po lie 
+牙齿	ya chi 
+器质性	qi zhi xing 
+圆锥	yuan zhui 
+抑郁	yi yu 
+颈椎病	jing chui bing 
+衣原体	yi yuan ti 
+促进	cu jin 
+自慰	zi wei 
+尿胆原	niao dan yuan 
+避孕	bi yun 
+同房	tong fang 
+拒收	ju shou 
+眼科	yan ke 
+生命	sheng ming 
+复发	fu fa 
+尖锐湿疣	jian rui shi you 
+內膜	nei mo 
+内裤	nei ku 
+妇科	fu ke 
+冲动	chong dong 
+程度	cheng du 
+减肥	jian fei 
+轻者	qing zhe 
+皮肤科	pi fu ke 
+高锰酸钾	gao meng suan jia 
+疗程短	liao cheng duan 
+脏腑	zang fu 
+受精	shou jing 
+病原菌	bing yuan jun 
+理疗	li liao 
+暴露	bao lu 
+类型	lei xing 
+体外受精	ti wai shou jing 
+刺激素	ci ji su 
+喝酒	he jiu 
+炉甘石	lu gan shi 
+金黄色	jin huang se 
+保暖	bao nuan 
+祛斑	qu ban 
+脑血管病	nao xue guan bing 
+接触	jie chu 
+腹痛	fu tong 
+清洁卫生	qing jie wei sheng 
+肾盂	shen yu 
+过敏原	guo min yuan 
+中成药	zhong cheng yao 
+评价	ping jia 
+胃酸	wei suan 
+伤口	shang kou 
+腹股沟	fu gu gou 
+毛细血管	mao xi xue guan 
+根治	gen zhi 
+红参	hong can 
+病理	bing li 
+分娩	fen mian 
+坐骨神经	zuo gu shen jing 
+血小板	xue xiao ban 
+恢复正常	hui fu zheng chang 
+口腔溃疡	kou qiang kui yang 
+便血	bian xue 
+发育不全	fa yu bu quan 
+关节	guan jie 
+查明	cha ming 
+具备	ju bei 
+鼻用	bi yong 
+换鞋	huan xie 
+智齿	zhi chi 
+结节	jie jie 
+影时	ying shi 
+变白	bian bai 
+枇杷	pi pa 
+疲劳	pi lao 
+阻断	zu duan 
+周日	zhou ri 
+右肺	you fei 
+抑制	yi zhi 
+组胺	zu an 
+防止	fang zhi 
+住院治疗	zhu yuan zhi liao 
+周期	zhou qi 
+避孕药	bi yun yao 
+帮助	bang zhu 
+帕金森	pa jin sen 
+给予	ji yu 
+施图伦	shi tu lun 
+可以	ke yi 
+确诊	que zhen 
+偏头痛	pian tou tong 
+需谨慎	xu jin shen 
+精液	jing ye 
+释放	shi fang 
+还是	hai shi 
+斯皮仁诺	si pi ren nuo 
+一般来说	yi ban lai shuo 
+阵发性	zhen fa xing 
+照晒	zhao shai 
+瓣膜	ban mo 
+液体石蜡	ye ti shi la 
+酸碱	suan jian 
+月经不调	yue jing bu diao 
+粘连	zhan lian 
+提肌	ti ji 
+贴后	tie hou 
+遗传	yi chuan 
+症状	zheng zhuang 
+化验单	hua yan dan 
+远视	yuan shi 
+心理	xin li 
+鼻剂	bi ji 
+腥味	xing wei 
+乏力	fa li 
+尿路感染	niao lu gan ran 
+出汗	chu han 
+并发症	bing fa zheng 
+精神病	jing shen bing 
+花斑癣	hua ban xuan 
+脂肪	zhi fang 
+小时	xiao shi 
+假性	jia xing 
+预后	yu hou 
+浊音	zhuo yin 
+调节剂	tiao jie ji 
+焦躁	jiao zao 
+消失	xiao shi 
+安全套	an quan tao 
+氧氟沙星	yang fu sha xing 
+瘘管	lou guan 
+化脓	hua nong 
+大量	da liang 
+特效药	te xiao yao 
+因为	yin wei 
+喝咖啡	he ka fei 
+整肠生	zheng chang sheng 
+抽出	chou chu 
+病因	bing yin 
+胃镜	wei jing 
+改变	gai bian 
+外耳道	wai er dao 
+加号	jia hao 
+胸闷	xiong men 
+关键	guan jian 
+每周	mei zhou 
+癔症	yi zheng 
+最好	zui hao 
+药液	yao ye 
+积极	ji ji 
+散热	san re 
+远端	yuan duan 
+磁共振	ci gong zhen 
+免疫学	mian yi xue 
+良性	liang xing 
+额头	e tou 
+中草药	zhong cao yao 
+咳宁克	ke ning ke 
+炎症	yan zheng 
+保护	bao hu 
+生化	sheng hua 
+发烧	fa shao 
+藿香	huo xiang 
+修复	xiu fu 
+禁食	jin shi 
+腹泻	fu xie 
+不知	bu zhi 
+担心	dan xin 
+疲软	pi ruan 
+阴茎	yin jing 
+排除	pai chu 
+年龄	nian ling 
+清创	qing chuang 
+分为	fen wei 
+治疗	zhi liao 
+红霉素	hong mei su 
+勃起	bo qi 
+激素水平	ji su shui ping 
+就要	jiu yao 
+半数以上	ban shu yi shang 
+不痒	bu yang 
+内服	nei fu 
+大脑	da nao 
+圆孔	yuan kong 
+糖浆	tang jiang 
+杜冷丁	du leng ding 
+生殖	sheng zhi 
+复位	fu wei 
+希望	xi wang 
+尿常规	niao chang gui 
+脊柱炎	ji zhu yan 
+硫酸	liu suan 
+卡西平	ka xi ping 
+重组	chong zu 
+脖子	bo zi 
+擦剂	ca ji 
+洛汀新	luo ting xin 
+十多分钟	shi duo fen zhong 
+良性肿瘤	liang xing zhong liu 
+照片	zhao pian 
+孕妇	yun fu 
+必要	bi yao 
+隐匿	yin ni 
+肌肉	ji rou 
+转移因子	zhuan yi yin zi 
+怀孕	huai yun 
+肠道病毒	chang dao bing du 
+呼吸科	hu xi ke 
+功能性	gong neng xing 
+血管	xue guan 
+保健	bao jian 
+提供	ti gong 
+降脂	jiang zhi 
+产后	chan hou 
+白术散	bai zhu san 
+阳痿	yang wei 
+脾胃	pi wei 
+技术	ji shu 
+饮食习惯	yin shi xi guan 
+贲门	ben men 
+肾囊肿	shen nang zhong 
+头痛	tou tong 
+吃药	chi yao 
+养胃	yang wei 
+鼻炎	bi yan 
+暂时	zan shi 
+丙肝	bing gan 
+有助	you zhu 
+鼻窦炎	bi dou yan 
+刺激性	ci ji xing 
+穿刺	chuan ci 
+肌瘤	ji liu 
+地瓜	di gua 
+眼镜	yan jing 
+月经	yue jing 
+肠丸	chang wan 
+肿胀	zhong zhang 
+反复	fan fu 
+纤维	xian wei 
+鱼鳞病	yu lin bing 
+拔除	ba chu 
+困难	kun nan 
+生活	sheng huo 
+按摩	an mo 
+容易	rong yi 
+避免	bi mian 
+针对	zhen dui 
+锻炼身体	duan lian shen ti 
+痔疮	zhi chuang 
+破坏	po huai 
+方法	fang fa 
+口服	kou fu 
+肛肠科	gang chang ke 
+血液	xue ye 
+柿子	shi zi 
+达克宁	da ke ning 
+预防性	yu fang xing 
+用浴	yong yu 
+喂奶	wei nai 
+丧失	sang shi 
+佩戴	pei dai 
+甘利欣	gan li xin 
+唇形	chun xing 
+中毒	zhong du 
+不能	bu neng 
+您好	nin hao 
+精神障碍	jing shen zhang ai 
+会诊	hui zhen 
+没有	mei you 
+木僵	mu jiang 
+糜灵栓	mi ling shuan 
+均衡	jun heng 
+药流	yao liu 
+肿瘤	zhong liu 
+消化不良	xiao hua bu liang 
+形成	xing cheng 
+冲剂	chong ji 
+消炎	xiao yan 
+南瓜	nan gua 
+体积	ti ji 
+眉毛	mei mao 
+坐浴	zuo yu 
+代谢	dai xie 
+游离	you li 
+孕激素	yun ji su 
+嗓子疼	sang zi teng 
+心脏	xin zang 
+病原	bing yuan 
+根本	gen ben 
+体重	ti zhong 
+改进	gai jin 
+多普勒	duo pu lei 
+病体	bing ti 
+哮喘病	xiao chuan bing 
+气喘	qi chuan 
+尽量	jin liang 
+垂体	chui ti 
+白斑	bai ban 
+肠乐	chang le 
+拆线	chai xian 
+耳聋	er long 
+银屑病	yin xie bing 
+宫喜宁	gong xi ning 
+突起	tu qi 
+声带	sheng dai 
+排卵	pai luan 
+皮炎	pi yan 
+片子	pian zi 
+凝血因子	ning xue yin zi 
+药量	yao liang 
+功能障碍	gong neng zhang ai 
+没视诊	mei shi zhen 
+黄疸	huang dan 
+未育者	wei yu zhe 
+坏死	huai si 
+益生菌	yi sheng jun 
+紫外线	zi wai xian 
+中耳炎	zhong er yan 
+阜外医院	fu wai yi yuan 
+口服药物	kou fu yao wu 
+表面活性	biao mian huo xing 
+头晕	tou yun 
+咨询	zi xun 
+生态平衡	sheng tai ping heng 
+大黄	dai huang 
+检查	jian cha 
+膀胱	pang guang 
+用点	yong dian 
+采取	cai qu 
+过敏性	guo min xing 
+比如	bi ru 
