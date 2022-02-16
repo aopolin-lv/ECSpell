@@ -1,0 +1,4 @@
+nltk==3.6.3
+tqdm==4.62.3
+common_utils==2.0.1.dev1
+opencc==1.1.3
