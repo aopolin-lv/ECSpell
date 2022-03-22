@@ -4,7 +4,6 @@ import sys
 from pathlib import Path
 import re
 import unicodedata
-from Code.transformer_config import TransformerConfig
 from transformers.trainer_utils import set_seed
 import torch
 
@@ -178,17 +177,6 @@ def filter_chinese_chars(text):
         else:
             output.append(char)
     return "".join(output)
-
-
-def load_config(fp: str):
-    if fp:
-        with open(fp, "r", encoding="utf-8") as reader:
-            text = reader.read()
-            config_dict = json.loads(text)
-            config = TransformerConfig(**config_dict)
-        return config
-    else:
-        return None
 
 
 def setSeed(seed):

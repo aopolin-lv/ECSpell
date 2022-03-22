@@ -80,7 +80,7 @@ def predict(src_filenames, model_dirname, tokenizer_filename, label_filename, re
 
     tag_sentences = tagger(model, tokenizer, clean_src, processor.vocab_processor, use_word,
                            use_pinyin=True, pinyin_processor=processor.pinyin_processor,
-                           device="cuda", labels=labels, weight=3.5, RSM=False, ASM=True)
+                           device="cuda", labels=labels, weight=4.0, RSM=False, ASM=True)
     outputs = []
 
     for sentence, tag_sentence in zip(clean_src, tag_sentences):
@@ -115,25 +115,20 @@ def predict(src_filenames, model_dirname, tokenizer_filename, label_filename, re
 
 def main():
     random.seed(42)
-    # model_name = "glyce"
     checkpoint = "2250"
 
-    # result_dir = os.path.abspath(f"Results/finished/pretrain_continous")
-    result_dir = os.path.abspath(f"Results/sighan_continous")
+    result_dir = os.path.abspath(f"Results/")
     tokenizer_filename = os.path.abspath("Transformers/glyce")
 
     test_filenames = [
-        os.path.abspath("csc_evaluation/data/basedata/simplified/test2015.txt"),
-        # os.path.abspath("csc_evaluation/data/customized_data/law.txt"),
-        # os.path.abspath("../csc_evaluation/data/document_writing/test.txt"),
+        os.path.abspath("Data/domains_data/law.txt"),
     ]
     model_filename = os.path.join(result_dir, "results", f"checkpoint-{checkpoint}")
 
     label_filename = os.path.join(result_dir, 'labels.txt')
-    result_filename = os.path.join(result_dir, "results", f"checkpoint-{checkpoint}-test.result")
+    result_filename = os.path.join(result_dir, "results", f"checkpoint-{checkpoint}-law.result")
 
-    vocab_filename = "csc_evaluation/data/document_writing/wordlist/公文写作.txt.clean"
-    vocab_filename = "Data/vocab/sighan2015_vocab_75.txt"
+    vocab_filename = "csc_evaluation/data/document_writing/wordlist/公文写作.txt"
     print("=" * 40)
     print(vocab_filename)
     print("=" * 40)

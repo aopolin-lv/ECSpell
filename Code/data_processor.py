@@ -23,7 +23,7 @@ UNK_LABEL = "<unk>"
 COPY_LABEL = "<copy>"
 NOCOPY_LABEL = "<nocopy>"
 
-model_name = "/data/lq/Project/cscbaseline/Transformers/glyce"
+model_name = "Transformers/glyce"
 py_processor = PinyinProcessor(model_name)
 
 
@@ -77,23 +77,14 @@ class CscDataCollator:
         inputs["token_type_ids"] = inputs["token_type_ids"] + [self.tokenizer.pad_token_id] * difference
         inputs["labels"] = inputs["labels"] + [self.label_pad_token_id] * difference
         word_features = inputs.pop("word_features")
-
         if word_features:
             inputs["word_features"] = word_features + [0] * difference
-        # pinyin_ids = inputs.pop("pinyin_ids")
-        # if pinyin_ids:
-        #     pinyin_pad = (0, 0, 0, 0)
-        #     inputs["pinyin_ids"] = pinyin_ids + [pinyin_pad for _ in range(difference)]
-            # inputs["pinyin_ids"] = [x[0] for x in pinyin_ids] + [0] * difference
-        ws_features = inputs.pop("ws_features")
-        if ws_features:
-            inputs["ws_features"] = ws_features + [0] * difference
 
         return inputs
 
 
 class PinyinProcessor():
-    def __init__(self, model_name, max_length: int = 512) -> None:
+    def __init__(self, model_name, max_length: int = 512):
         super().__init__()
         self.vocab_file = os.path.join(model_name, 'vocab.txt')
         self.config_path = os.path.join(model_name, 'pinyin_config')
@@ -113,7 +104,7 @@ class PinyinProcessor():
             self,
             sentence: Union[str, list],
             tokenizer_output: tokenizers.Encoding
-    ) -> List[List[int]]:
+    ):
         if not isinstance(sentence, list):
             raise "sentence must be list form"
         # batch mode
@@ -351,8 +342,8 @@ def convert_label_by_vocab(texts, tags, unique_tags, use_copy_label=False):
 
 
 def get_confusionset():
-    shape_confusion_set = load_json("/data/lq/Project/cscbaseline/Data/confusion/shapeConfusion.json")
-    sound_confusion_set = load_json("/data/lq/Project/cscbaseline/Data/confusion/soundConfusion.json")
+    shape_confusion_set = load_json("Data/confusion/shapeConfusion.json")
+    sound_confusion_set = load_json("/Data/confusion/soundConfusion.json")
     confusion_set = shape_confusion_set.copy()
     confusion_set.update(sound_confusion_set)
     for k, v in confusion_set.items():

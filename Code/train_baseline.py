@@ -296,8 +296,8 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(args.model_name, config=config)
     glyce_config = Config.from_json_file(args.glyce_config_path)
     glyce_config.glyph_config.bert_model = args.model_name
-    model = BertForTokenClassification.from_pretrained("Transformers/glyce", num_labels=len(labels))
-    # model = ECSpell(glyce_config, processor.pinyin_processor.get_pinyin_size(), len(labels), True)
+    # model = BertForTokenClassification.from_pretrained("Transformers/glyce", num_labels=len(labels))
+    model = ECSpell(glyce_config, processor.pinyin_processor.get_pinyin_size(), len(labels), True)
     if args.load_pretrain_checkpoint:
         logger.info(" === Load pretrain model parameters !!! === ")
         logger.info(f"{os.path.join(args.load_pretrain_checkpoint, 'results', f'checkpoint-{args.checkpoint_index}')}")
@@ -310,10 +310,10 @@ def main():
     args.total_parameter = parameter_number["Total"]
     args.trainable_parameter = parameter_number["Trainable"]
     logger.info(f" Total params: {format(parameter_number['Total'], ',')}")
-    # glyce_parameter = common_utils.get_parameter_number(model.glyph_transformer.glyph_embedding)
-    # logger.info(f" Glyph params: {format(glyce_parameter['Total'], ',')}")
-    # pinyin_parameter = common_utils.get_parameter_number(model.glyph_transformer.pho_embedding)
-    # logger.info(f" Pinyin params: {format(pinyin_parameter['Total'], ',')}")
+    glyce_parameter = common_utils.get_parameter_number(model.glyph_transformer.glyph_embedding)
+    logger.info(f" Glyph params: {format(glyce_parameter['Total'], ',')}")
+    pinyin_parameter = common_utils.get_parameter_number(model.glyph_transformer.pho_embedding)
+    logger.info(f" Pinyin params: {format(pinyin_parameter['Total'], ',')}")
 
     with open(os.path.join(args.result_dir, "parameters.json"), "w", encoding="utf-8") as f:
         json.dump(vars(args), f, indent=4, ensure_ascii=False)

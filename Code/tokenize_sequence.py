@@ -59,45 +59,21 @@ def get_token_labels(tokenizer, input_sent, output_sent, max_length=128):
 
 filemaps = {
     "sim": [
-        # "../csc_evaluation/builds/sim/SIGHAN/train.txt", "../csc_evaluation/builds/sim/SIGHAN/val.txt",
-        # "../csc_evaluation/builds/sim/nlg/train.txt", "../csc_evaluation/builds/sim/nlg/val.txt",
-        # "../csc_evaluation/data/basedata/simplified/nlg.txt"
-        # "../Data/fakedata/nlg_augment.txt"
-        # "../Data/fakedata/nlg_o_55.txt",
-        # "../Data/fakedata/nlg_o_73.txt",
-        # "../Data/fakedata/nlg_o_82.txt",
-        # "../Data/fakedata/nlg_a_55.txt",
-        # "../Data/fakedata/nlg_a_73.txt",
-        # "../Data/fakedata/nlg_a_82.txt",
-        "../Data/augment/train.txt",
-        "../Data/augment/val.txt"
-        # "../Data/fakedata/nlg_o_55_train.txt",
-        # "../Data/fakedata/nlg_o_55_val.txt",
-        # "../Data/fakedata/nlg_o_73_train.txt",
-        # "../Data/fakedata/nlg_o_73_val.txt",
-        # "../Data/fakedata/nlg_o_82_train.txt",
-        # "../Data/fakedata/nlg_o_82_val.txt",
-        # "../Data/fakedata/nlg_a_55_train.txt",
-        # "../Data/fakedata/nlg_a_55_val.txt",
-        # "../Data/fakedata/nlg_a_73_train.txt",
-        # "../Data/fakedata/nlg_a_73_val.txt",
-        # "../Data/fakedata/nlg_a_82_train.txt",
-        # "../Data/fakedata/nlg_a_82_val.txt",
-        # "../csc_evaluation/data/basedata/simplified/train2015.txt",
-        # "../csc_evaluation/data/basedata/simplified/train2014.txt",
-        # "../csc_evaluation/data/basedata/simplified/train2013.txt"
+        "csc_evaluation/builds/sim/SIGHAN/train.txt", "csc_evaluation/builds/sim/SIGHAN/val.txt",
+        # "csc_evaluation/builds/sim/nlg/train.txt", "csc_evaluation/builds/sim/nlg/val.txt",
+        # "csc_evaluation/data/basedata/simplified/nlg.txt"
+        # "csc_evaluation/data/basedata/simplified/train2015.txt",
+        # "csc_evaluation/data/basedata/simplified/train2014.txt",
+        # "csc_evaluation/data/basedata/simplified/train2013.txt"
     ],
-    # "tra": ["../csc_evaluation/builds/tra/train.txt", "../csc_evaluation/builds/tra/val.txt"],
-    # "both": ["../csc_evaluation/builds/sim_tra/train.txt", "../csc_evaluation/builds/sim_tra/val.txt"],
 }
 reverse = False
-model_list = ["bert-base-chinese", "chinesebert", "glyce"]
 model_list = ["glyce"]
 
 for model_name in model_list:
     tokenizer = AutoTokenizer.from_pretrained(f"../Transformers/{model_name}")
     for font_type, filenames in filemaps.items():
-        save_dir = f'../Data/traintest/{font_type}/{model_name}'
+        save_dir = f'Data/traintest/{font_type}/{model_name}'
         print(f"Model name: {model_name}\tFont type: {font_type}")
         for filename in filenames:
             corpus_type = filename.split("/")[-2]
