@@ -1,5 +1,4 @@
 import os
-from typing import OrderedDict
 import torch
 import common_utils
 from transformers import AutoTokenizer, BertForTokenClassification
@@ -65,7 +64,9 @@ def postprocess(inputs, src_sents, vocab):
     return res
 
 
-def predict(src_filenames, model_dirname, tokenizer_filename, label_filename, result_filename, processor=None, use_word=False):
+def predict(src_filenames, model_dirname, tokenizer_filename, label_filename,
+            result_filename, processor=None, use_word=False, ecspell=True,
+            weight=0, rsm=False, asm=False):
     labels = open(label_filename, encoding='utf-8').read().split('\n')
     model_filename = os.path.join(model_dirname, "pytorch_model.bin")
     # load model
@@ -73,14 +74,19 @@ def predict(src_filenames, model_dirname, tokenizer_filename, label_filename, re
     glyce_config_path = "Transformers/glyce_bert_both_font.json"
     glyce_config = Config.from_json_file(glyce_config_path)
     glyce_config.glyph_config.bert_model = "Transformers/glyce"
-    model = ECSpell(glyce_config, py_processor.get_pinyin_size(), len(labels), True)
-    # model = BertForTokenClassification.from_pretrained("Transformers/glyce", num_labels=len(labels))
+    if ecspell:
+        model = ECSpell(glyce_config, py_processor.get_pinyin_size(), len(labels), False)
+        use_pinyin = True
+    else:
+        model = BertForTokenClassification.from_pretrained("Transformers/glyce", num_labels=len(labels))
+        use_pinyin = False
     model.load_state_dict(torch.load(model_filename, map_location=torch.device("cpu")))
+
     all_pairs, src_sents, clean_src, vocab = preprocess(src_filenames)
 
     tag_sentences = tagger(model, tokenizer, clean_src, processor.vocab_processor, use_word,
-                           use_pinyin=True, pinyin_processor=processor.pinyin_processor,
-                           device="cuda", labels=labels, weight=4.0, RSM=False, ASM=True)
+                           use_pinyin=use_pinyin, pinyin_processor=processor.pinyin_processor,
+                           device="cuda", labels=labels, weight=weight, RSM=rsm, ASM=asm)
     outputs = []
 
     for sentence, tag_sentence in zip(clean_src, tag_sentences):
@@ -115,28 +121,32 @@ def predict(src_filenames, model_dirname, tokenizer_filename, label_filename, re
 
 def main():
     random.seed(42)
-    checkpoint = "2250"
+    dataset = "law"
 
-    result_dir = os.path.abspath(f"Results/")
+    personalized = False
+    if personalized:
+        result_dir = os.path.abspath("Results/ecspell")
+    else:
+        result_dir = os.path.abspath("Results/bert")
     tokenizer_filename = os.path.abspath("Transformers/glyce")
 
     test_filenames = [
-        os.path.abspath("Data/domains_data/law.txt"),
+        os.path.abspath(f"Data/domains_data/{dataset}.test"),
     ]
-    model_filename = os.path.join(result_dir, "results", f"checkpoint-{checkpoint}")
+    model_filename = os.path.join(result_dir, "results", "checkpoint")
 
     label_filename = os.path.join(result_dir, 'labels.txt')
-    result_filename = os.path.join(result_dir, "results", f"checkpoint-{checkpoint}-law.result")
+    result_filename = os.path.join(result_dir, "results", f"checkpoint-{dataset}.test")
 
-    vocab_filename = "csc_evaluation/data/document_writing/wordlist/公文写作.txt"
+    vocab_filename = "csc_evaluation/data/wordlist/公文写作.txt"
     print("=" * 40)
     print(vocab_filename)
     print("=" * 40)
     processor = Processor(vocab_filename)
 
     print('predicting')
-    predict(test_filenames, model_filename, tokenizer_filename, label_filename, result_filename, processor,
-            use_word=True)
+    predict(test_filenames, model_filename, tokenizer_filename, label_filename,
+            result_filename, processor, use_word=True, ecspell=personalized)
 
     print('evaluating')
     evaluate(result_filename, need_tokenize=False)
