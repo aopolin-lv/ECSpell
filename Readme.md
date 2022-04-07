@@ -10,3 +10,4 @@ cd glyce
 python setup.py develop
 pip show glyce   # to ensure the successful installation of glyce lib
 ```
+[Model weights](https://drive.google.com/file/d/1HlfDbMpXR6YHiBuJS8s_K3ZKG6j0fvc5/view?usp=sharing)
