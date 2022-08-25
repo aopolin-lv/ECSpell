@@ -1,0 +1,8 @@
+Cached/
+Results/
+Transformers/bert-base-chinese
+Data/traintest/
+log/
+__pycache__/
+*.pyc
+.vscode/*

@@ -42,7 +42,6 @@ from Code.pipeline import tagger
 from Code.processor import Processor
 from Code.common_utils import setSeed
 from Code.DataAugment.text_utils import is_chinese_char
-from Code.data_processor import attack_generation
 from Code.evaluate import preprocess, postprocess
 
 # Integrations must be imported before ML frameworks:
@@ -292,7 +291,6 @@ class Trainer:
             model_init: Callable[[], PreTrainedModel] = None,
             compute_metrics: Optional[Callable[[EvalPrediction], Dict]] = None,
             callbacks: Optional[List[TrainerCallback]] = None,
-            attack: Optional[bool] = False,
             optimizers: Tuple[torch.optim.Optimizer,
                               torch.optim.lr_scheduler.LambdaLR] = (None, None),
             eval_helper: Optional[EvalHelper] = None,
@@ -316,7 +314,6 @@ class Trainer:
         self.is_in_train = False
         self.test_args = test_args
         self.use_pinyin = use_pinyin
-        self.attack = attack
         self.tag2id = tag2id
         self.processor = processor
 
@@ -492,6 +489,7 @@ class Trainer:
             else ["labels"]
         )
         self.label_names = default_label_names if self.args.label_names is None else self.args.label_names
+        # import pdb;pdb.set_trace()
         self.control = self.callback_handler.on_init_end(self.args, self.state, self.control)
 
         # very last
@@ -701,7 +699,7 @@ class Trainer:
         #         process_index=self.args.process_index,
         #     )
 
-    def get_eval_dataloader(self, eval_dataset: Optional[Dataset] = None) -> DataLoader:
+    def get_eval_dataloader(self, eval_dataset: Optional[Dataset] = None):
         """
         Returns the evaluation :class:`~torch.utils.data.DataLoader`.
 
@@ -748,7 +746,7 @@ class Trainer:
             pin_memory=self.args.dataloader_pin_memory,
         )
 
-    def get_test_dataloader(self, test_dataset: Dataset) -> DataLoader:
+    def get_test_dataloader(self, test_dataset: Dataset):
         """
         Returns the test :class:`~torch.utils.data.DataLoader`.
 
@@ -1258,7 +1256,8 @@ class Trainer:
         self._globalstep_last_logged = self.state.global_step
         model.zero_grad()
 
-        self.control = self.callback_handler.on_train_begin(args, self.state, self.control)
+        self.control = self.callback_handler.on_train_begin(args, self.state, self.control)        
+        # import pdb;pdb.set_trace()
 
         # Skip the first epochs_trained epochs to get the random state of the dataloader at the right point.
         if not args.ignore_data_skip:
@@ -1290,10 +1289,6 @@ class Trainer:
             self.control = self.callback_handler.on_epoch_begin(args, self.state, self.control)
 
             for step, inputs in enumerate(epoch_iterator):
-                # attack
-                if self.attack and (step % 3 == 0):
-                    inputs = attack_generation(inputs, self.tag2id, self.model, self.tokenizer, self.processor)
-                    torch.cuda.empty_cache()
                 # Skip past any already trained steps if resuming training
                 if steps_trained_in_current_epoch > 0:
                     steps_trained_in_current_epoch -= 1

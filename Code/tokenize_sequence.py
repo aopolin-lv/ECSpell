@@ -60,26 +60,20 @@ def get_token_labels(tokenizer, input_sent, output_sent, max_length=128):
 filemaps = {
     "sim": [
         "csc_evaluation/builds/sim/SIGHAN/train.txt", "csc_evaluation/builds/sim/SIGHAN/val.txt",
-        # "csc_evaluation/builds/sim/nlg/train.txt", "csc_evaluation/builds/sim/nlg/val.txt",
-        # "csc_evaluation/data/basedata/simplified/nlg.txt"
-        # "csc_evaluation/data/basedata/simplified/train2015.txt",
-        # "csc_evaluation/data/basedata/simplified/train2014.txt",
-        # "csc_evaluation/data/basedata/simplified/train2013.txt"
+        "csc_evaluation/builds/sim/nlg/train.txt", "csc_evaluation/builds/sim/nlg/val.txt",
     ],
 }
 reverse = False
-model_list = ["glyce"]
+model_list = ["bert-base-chinese"]
 
 for model_name in model_list:
-    tokenizer = AutoTokenizer.from_pretrained(f"../Transformers/{model_name}")
+    tokenizer = AutoTokenizer.from_pretrained(f"Transformers/{model_name}")
     for font_type, filenames in filemaps.items():
-        save_dir = f'Data/traintest/{font_type}/{model_name}'
+        save_dir = f'Data/traintest/{model_name}'
         print(f"Model name: {model_name}\tFont type: {font_type}")
         for filename in filenames:
             corpus_type = filename.split("/")[-2]
             print(f'Handle file: {filename}')
             total_count = data_to_token_classification(
                 [filename], tokenizer, os.path.join(save_dir, corpus_type, os.path.basename(filename)), reverse=reverse)
-            # total_count = data_to_token_classification(
-            #     [filename], tokenizer, os.path.join(save_dir, os.path.basename(filename)), reverse=reverse)
             print(f'total count: {total_count}')
