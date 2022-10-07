@@ -85,6 +85,108 @@ class VocabProcessor:
                 f.write("\t".join(line))
                 f.write("\n")
 
+    def add_feature(self, texts, tokenizer, encodings, use_word=False, use_pinyin=False, pinyin_max_len=100):
+        word_features = [] if use_word else None
+        pinyin_features = [] if use_pinyin else None
+        bar = trange(len(texts), desc="add features", position=0, leave=True)
+        for i in bar:
+
+            tokens = tokenizer.convert_ids_to_tokens(encodings["input_ids"][i])[1: -1]
+            token2text = encodings.word_ids(batch_index=i)[1: -1]
+            text2token = [0 for _ in range(len(texts[i]))]
+            start, index = 0, 0
+            end = start + 1
+            while end < len(token2text) and index < len(text2token):
+                if token2text[end] == token2text[start] + 1:
+                    text2token[index] = start
+                    index += 1
+                    start = end
+                    end += 1
+                elif token2text[end] == token2text[start]:
+                    end += 1
+                else:
+                    print("error")
+            for j in range(start, len(token2text)):
+                text2token[index] = j
+                index += 1
+                if index == len(text2token):
+                    break
+
+            sentence = "".join(texts[i])
+
+            text2sent = [0 for _ in range(len(texts[i]))]
+            for j in range(1, len(texts[i])):
+                text2sent[j] = text2sent[j - 1] + len(texts[i][j - 1])
+            sent2text = [0 for _ in range(len(sentence))]
+            for j in range(1, len(text2sent)):
+                for k in range(text2sent[j - 1], text2sent[j]):
+                    sent2text[k] = j - 1
+            for j in range(text2sent[-1], len(sent2text)):
+                sent2text[j] = len(text2sent) - 1
+
+            sent_pinyin_lists = pinyin(sentence, style=Style.NORMAL)
+            sent_pinyin_list = []
+            for word_py_list in sent_pinyin_lists:
+                sent_pinyin_list.append(word_py_list[0])
+            sent_pinyin = ""
+            for word_py in sent_pinyin_list:
+                sent_pinyin = sent_pinyin + word_py + " "
+            text2py = [0 for _ in range(len(texts[i]))]
+            for j in range(1, len(sent_pinyin_list)):
+                text2py[j] = text2py[j - 1] + len(sent_pinyin_list[j - 1]) + 1
+            py2text = [0 for _ in range(len(sent_pinyin))]
+            for j in range(1, len(text2py)):
+                for k in range(text2py[j - 1], text2py[j]):
+                    py2text[k] = j - 1
+            for j in range(text2py[-1], len(py2text)):
+                py2text[j] = len(text2py) - 1
+
+            if use_word:
+                word_feature = [0 for _ in range(len(tokens))]
+                start_pos, margin = 0, 0
+                while margin < len(sentence):
+                    sub_str = self.word_trie.longest_prefix(sentence[margin:], default="N/A")
+                    if sub_str == "N/A":
+                        margin += 1
+                        continue
+                    start_pos = sentence[margin:].find(sub_str) + margin
+                    end_pos = start_pos + len(sub_str) - 1
+                    for j in range(sent2text[start_pos], sent2text[end_pos] + 1):
+                        word_feature[text2token[j]] = len(sub_str)
+                    margin += len(sub_str)
+                assert len(word_feature) == len(tokens)
+                word_feature = [0] + word_feature + [0]
+                word_features.append(word_feature)
+
+            if use_pinyin:
+                pinyin_feature = [0 for _ in range(len(tokens))]
+                start_pos, text_margin = 0, 0
+                while text_margin < len(text2py) and text2py[text_margin] < len(sent_pinyin):
+                    sub_pys = sent_pinyin[text2py[text_margin]:]
+                    sub = self.py_trie.longest_prefix_item(sub_pys, default="N/A")
+                    if sub == "N/A":
+                        text_margin += 1
+                        continue
+                    sub_py, sub_word = sub[0], sub[1]
+                    if len(sub_word) < pinyin_max_len:
+                        text_margin += 1
+                        continue
+                    sub_sent = sentence[text2sent[text_margin]:]
+                    if sub_word != sub_sent[:len(sub_word)]:
+                        start_py_pos = sub_pys.find(sub_py) + text2py[text_margin]
+                        end_py_pos = start_py_pos + len(sub_py)
+                        if end_py_pos < len(py2text):
+                            for j in range(text2token[py2text[start_py_pos]], text2token[py2text[end_py_pos]]):
+                                pinyin_feature[j] = 1
+                        else:
+                            for j in range(text2token[py2text[start_py_pos]], len(tokens)):
+                                pinyin_feature[j] = 1
+                    text_margin += len(sub_py.split(" ")) - 1
+                assert len(pinyin_feature) == len(tokens)
+                pinyin_feature = [0] + pinyin_feature + [0]
+                pinyin_features.append(pinyin_feature)
+        return word_features
+
 
 class PinyinProcessor():
     def __init__(self, model_name, max_length: int = 512, strict=False) -> None:
@@ -94,7 +196,7 @@ class PinyinProcessor():
         self.pinyin_vocab = os.path.join(self.config_path, 'pinyin_vocab.txt')
 
         self.max_length = max_length
-        self.tokenizer = BertWordPieceTokenizer(self.vocab_file)
+        # self.tokenizer = BertWordPieceTokenizer(self.vocab_file)
         self.strict = strict
         self.pinyin2id = load_json(os.path.join(self.config_path, 'pinyin2id.json'))
         self.id2pinyin = load_json(os.path.join(self.config_path, 'id2pinyin.json'))

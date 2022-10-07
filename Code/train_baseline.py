@@ -179,18 +179,18 @@ def main():
     group_data = parser.add_argument_group("Data")
     group_data.add_argument("--model_name", default="Transformers/bert-base-chinese", help="model name")
     group_data.add_argument(
-        "--train_files", default="Data/traintest/bert-base-chinese/nlg/train.txt", help="train files, split by \";\"")
+        "--train_files", default="Data/traintest/bert-base-chinese/sighan/train.txt", help="train files, split by \";\"")
     group_data.add_argument(
-        "--val_files", default="Data/traintest/bert-base-chinese/nlg/val.txt", help="evaluation files, split by \";\"")
+        "--val_files", default="Data/traintest/bert-base-chinese/sighan/val.txt", help="evaluation files, split by \";\"")
     group_data.add_argument(
         "--test_files", default="Data/data/basedata/test2015.txt", help="test files, split by \";\"")
     group_data.add_argument("--cached_dir", default="Cached", help="the directory of cached")
-    group_data.add_argument("--result_dir", default="Results/nlg_30epoch", help="result path")
+    group_data.add_argument("--result_dir", default="Results/sighan_30epoch", help="result path")
     group_data.add_argument("--seed", default=42, type=int, help="random seed")
     group_data.add_argument("--vocab_file", default="Data/vocab/allNoun.txt", help="vocab files")
     group_data.add_argument("--glyce_config_path", default="Transformers/glyce_bert_both_font.json", type=str, help="glyce_config path")
     group_data.add_argument("--overwrite_cached", default=True, type=common_utils.str2bool, help="whether overwrite cached")
-    group_data.add_argument("--load_pretrain_checkpoint", default="Results/ecspell", type=str, help="the path of pretrain checkpoint file, default is None")
+    group_data.add_argument("--load_pretrain_checkpoint", default="Results/nlg_30epoch", type=str, help="the path of pretrain checkpoint file, default is None")
     group_data.add_argument("--font_type", default="sim", type=str, help="['sim', 'tra', 'test']")
     group_data.add_argument("--keep_count", default=1, type=int, help="threshold for tag frequency")
     group_data.add_argument("--max_sent_length", default=128, type=int, help="maximal sentence length")
@@ -209,12 +209,12 @@ def main():
     group_model.add_argument("--gradient_accumulation_steps", default=2, type=int,
                              help="Number of updates steps to accumulate the gradients for, before performing a "
                                   "backward/update pass")
-    group_model.add_argument("--num_train_epochs", default=30, type=float, help="Number of train epoches, can be a float value")
+    group_model.add_argument("--num_train_epochs", default=100, type=float, help="Number of train epoches, can be a float value")
     group_model.add_argument("--fp16", default=True, type=common_utils.str2bool, help="whether use fp16 to speed up")
     group_model.add_argument("--do_test", default=False, type=common_utils.str2bool, help="whether do test when training")
     group_model.add_argument("--max_steps", default=-1, type=int, help="If > 0: set total number of training steps to perform. Override num_train_epochs.")
-    group_model.add_argument("--save_steps", default=500, type=int, help="Steps to save model/evaluation")
-    group_model.add_argument("--logging_steps", default=500, type=int, help="Steps to logging")
+    group_model.add_argument("--save_steps", default=50, type=int, help="Steps to save model/evaluation")
+    group_model.add_argument("--logging_steps", default=50, type=int, help="Steps to logging")
     group_model.add_argument("--label_smoothing_factor", default=0, type=float, help="label smoothing factor, zero to disable")
     group_model.add_argument("--compute_metrics", default=True, type=common_utils.str2bool, help="whether use compute metrics")
     group_model.add_argument("--report_to", default="tensorboard", type=str, help="whether use compute metrics")
@@ -231,7 +231,7 @@ def main():
     args.model = args.model_name.split("/")[-1] if os.path.exists(args.model_name) else args.model_name
     args.cached_dir = os.path.join(args.cached_dir)
     args.result_dir = os.path.join(args.result_dir)
-    args.dataset_type = args.train_files.split("/")[-1].split(".")[0]
+    args.dataset_type = args.train_files[0].split("/")[-2]
 
     log_file = os.path.join(args.result_dir, "logger")
     set_logger(logger=logger, log_filename=log_file)
@@ -277,8 +277,8 @@ def main():
     model = ECSpell(glyce_config, processor.pinyin_processor.get_pinyin_size(), len(labels), True)
     if args.load_pretrain_checkpoint:
         logger.info(" === Load pretrain model parameters !!! === ")
-        logger.info(f"{os.path.join(args.load_pretrain_checkpoint, 'results', 'checkpoint')}")
-        checkpoint_file = os.path.join(args.load_pretrain_checkpoint, "results", f"checkpoint", "pytorch_model.bin")
+        logger.info(f"{os.path.join(args.load_pretrain_checkpoint, 'results', f'checkpoint-61000')}")
+        checkpoint_file = os.path.join(args.load_pretrain_checkpoint, "results", f"checkpoint-61000", "pytorch_model.bin")
         original_checkpoint = torch.load(checkpoint_file, map_location=torch.device("cpu"))
         model.load_state_dict(original_checkpoint)
         logger.info("=" * 30)
@@ -362,7 +362,6 @@ def main():
     logger.info("Start training")
 
     trainer = Trainer(
-        # the instantiated 🤗 Transformers model to be trained
         logfile=log_file,
         model=model,
         args=training_args,  # training arguments, defined above

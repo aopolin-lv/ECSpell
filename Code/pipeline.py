@@ -51,7 +51,7 @@ def tagger(
     test_word_features = vocab_processor.add_feature(texts, tokenizer, test_encodings, use_word=use_word)
     if use_pinyin:
         if pinyin_processor is None:
-            pinyin_processor = PinyinProcessor("/data/lq/Project/cscbaseline/Transformers/glyce")
+            pinyin_processor = PinyinProcessor("Transformers/glyce")
         test_pinyin_ids = pinyin_processor.convert_sentence_to_pinyin_ids(texts, test_encodings)
 
     answers = []

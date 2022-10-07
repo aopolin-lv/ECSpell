@@ -123,7 +123,7 @@ def main():
     random.seed(42)
     dataset = "law"
 
-    personalized = False
+    personalized = True
     if personalized:
         result_dir = os.path.abspath("Results/ecspell")
     else:
